@@ -280,8 +280,16 @@ def build_readme(records, stats, high_risk, quality_summary, quality_total):
 # ---------------------------------------------------------------------------
 # 7. Commit & push
 # ---------------------------------------------------------------------------
+def ensure_git_identity():
+    """Set a git identity so commits work in fresh CI environments."""
+    run_git(["config", "user.name", os.environ.get("GIT_USER_NAME", "github-actions[bot]")], check=False)
+    run_git(["config", "user.email", os.environ.get("GIT_USER_EMAIL",
+            "41898282+github-actions[bot]@users.noreply.github.com")], check=False)
+
+
 def git_commit_push():
     log("Staging changes ...")
+    ensure_git_identity()
     run_git(["add", "data/eu_public_service_portfolio.json", "README.md", "reports/"])
     run_git(["add", "-A"])
     # only commit if there are staged changes
