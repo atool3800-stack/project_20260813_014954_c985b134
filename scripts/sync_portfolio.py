@@ -120,7 +120,7 @@ def validate_quality(records):
 
 
 def summarize_quality(issues):
-    """Produce readable summary lines and a total count of issue instances."""
+    """Produce (label, count) pairs and a total count of issue instances."""
     summary = []
     total = 0
     for key in sorted(issues.keys()):
@@ -129,15 +129,19 @@ def summarize_quality(issues):
             continue
         if key == "duplicate_service_id":
             n_unique = len(set(items))
-            label = f"Duplicate service_id ({n_unique} ids repeated across {len(items)} extra occurrences)"
+            label = f"Duplicate service_id (unique ids)"
+            count = f"{n_unique} unique ids, {len(items)} extra records"
         elif key == "non_eu_country":
-            label = f"Non-UK/FR/DE country records ({len(items)})"
+            label = "Non-UK/FR/DE country records"
+            count = len(items)
         elif key.startswith("missing_"):
             field = key[len("missing_"):]
-            label = f"Missing key field '{field}' ({len(items)} records)"
+            label = f"Missing key field '{field}'"
+            count = len(items)
         else:
-            label = f"{key} ({len(items)})"
-        summary.append(label)
+            label = key.replace("_", " ").title()
+            count = len(items)
+        summary.append((label, count))
         total += len(items)
     return summary, total
 
@@ -260,12 +264,8 @@ def build_readme(records, stats, high_risk, quality_summary, quality_total):
         lines.append("")
         lines.append("| Issue | Count |")
         lines.append("|-------|------:|")
-        for q in quality_summary:
-            # extract count from label tail "(N)"
-            count = ""
-            if q.rstrip().endswith(")"):
-                count = q.rsplit("(", 1)[1][:-1]
-            lines.append(f"| {q} | {count} |")
+        for label, count in quality_summary:
+            lines.append(f"| {label} | {count} |")
         lines.append("")
     else:
         lines.append("No data-quality issues detected. ✅")
