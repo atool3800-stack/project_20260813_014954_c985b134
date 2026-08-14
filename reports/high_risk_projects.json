@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13",
-  "count": 2490,
+  "generated_at": "2026-08-14",
+  "count": 2500,
   "projects": [
     {
       "country": "UK",
@@ -13311,6 +13311,50 @@
       "due_date": "2026-08-12",
       "risk_level": "critical",
       "progress": 96
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16209",
+      "service_name": "Pole Emploi Portal 10",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-13",
+      "risk_level": "critical",
+      "progress": 96
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14886",
+      "service_name": "Pole Emploi Portal 37",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-13",
+      "risk_level": "critical",
+      "progress": 17
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16723",
+      "service_name": "Ameli Health Portal 24",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-13",
+      "risk_level": "critical",
+      "progress": 10
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14147",
+      "service_name": "CAF Social Benefits 48",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-13",
+      "risk_level": "critical",
+      "progress": 88
     },
     {
       "country": "UK",
@@ -27391,6 +27435,72 @@
       "due_date": "2026-08-12",
       "risk_level": "high",
       "progress": 33
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20842",
+      "service_name": "AusweisApp2 43",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 98
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14923",
+      "service_name": "Sante.fr 24",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13760",
+      "service_name": "HMRC Tax Digital 11",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 56
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21417",
+      "service_name": "BA Portal 18",
+      "owner": "N. Moreau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17098",
+      "service_name": "FranceConnect 49",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 77
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13360",
+      "service_name": "NHS Digital Records 11",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-13",
+      "risk_level": "high",
+      "progress": 90
     }
   ]
 }
