@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14",
-  "count": 2500,
+  "generated_at": "2026-08-15",
+  "count": 2506,
   "projects": [
     {
       "country": "UK",
@@ -13355,6 +13355,28 @@
       "due_date": "2026-08-13",
       "risk_level": "critical",
       "progress": 88
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13150",
+      "service_name": "HMRC Tax Digital 1",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-14",
+      "risk_level": "critical",
+      "progress": 81
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19746",
+      "service_name": "BA Portal 47",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-14",
+      "risk_level": "critical",
+      "progress": 51
     },
     {
       "country": "UK",
@@ -27501,6 +27523,50 @@
       "due_date": "2026-08-13",
       "risk_level": "high",
       "progress": 90
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15470",
+      "service_name": "MonCompteFormation 21",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-14",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12437",
+      "service_name": "Housing Benefit System 38",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-14",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20817",
+      "service_name": "Polizei Systeme 18",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-14",
+      "risk_level": "high",
+      "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16195",
+      "service_name": "ANTS Driving Licence 46",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-14",
+      "risk_level": "high",
+      "progress": 73
     }
   ]
 }
