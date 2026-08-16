@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15",
-  "count": 2506,
+  "generated_at": "2026-08-16",
+  "count": 2512,
   "projects": [
     {
       "country": "UK",
@@ -13377,6 +13377,50 @@
       "due_date": "2026-08-14",
       "risk_level": "critical",
       "progress": 51
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20073",
+      "service_name": "BA Portal 24",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-15",
+      "risk_level": "critical",
+      "progress": 96
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21096",
+      "service_name": "BundesID 47",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-08-15",
+      "risk_level": "critical",
+      "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18272",
+      "service_name": "Digital Health Record 23",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-15",
+      "risk_level": "critical",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12181",
+      "service_name": "NHS Digital Records 32",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-15",
+      "risk_level": "critical",
+      "progress": 70
     },
     {
       "country": "UK",
@@ -27567,6 +27611,28 @@
       "due_date": "2026-08-14",
       "risk_level": "high",
       "progress": 73
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15550",
+      "service_name": "Sante.fr 1",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-15",
+      "risk_level": "high",
+      "progress": 58
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18052",
+      "service_name": "BA Portal 3",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-15",
+      "risk_level": "high",
+      "progress": 85
     }
   ]
 }
