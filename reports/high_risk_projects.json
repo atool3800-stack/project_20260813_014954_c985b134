@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16",
-  "count": 2512,
+  "generated_at": "2026-08-17",
+  "count": 2519,
   "projects": [
     {
       "country": "UK",
@@ -13421,6 +13421,28 @@
       "due_date": "2026-08-15",
       "risk_level": "critical",
       "progress": 70
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16204",
+      "service_name": "FranceConnect 5",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-16",
+      "risk_level": "critical",
+      "progress": 14
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20966",
+      "service_name": "BundesID 17",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-16",
+      "risk_level": "critical",
+      "progress": 59
     },
     {
       "country": "UK",
@@ -27633,6 +27655,61 @@
       "due_date": "2026-08-15",
       "risk_level": "high",
       "progress": 85
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12373",
+      "service_name": "HMRC Tax Digital 24",
+      "owner": "V. Rousseau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-16",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15156",
+      "service_name": "CAF Social Benefits 7",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-16",
+      "risk_level": "high",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17479",
+      "service_name": "CAF Social Benefits 30",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-16",
+      "risk_level": "high",
+      "progress": 16
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10817",
+      "service_name": "DVLA Online Services 18",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-16",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19149",
+      "service_name": "AusweisApp2 50",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-16",
+      "risk_level": "high",
+      "progress": 97
     }
   ]
 }
