@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17",
-  "count": 2519,
+  "generated_at": "2026-08-18",
+  "count": 2524,
   "projects": [
     {
       "country": "UK",
@@ -13443,6 +13443,17 @@
       "due_date": "2026-08-16",
       "risk_level": "critical",
       "progress": 59
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16941",
+      "service_name": "FranceConnect 42",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-17",
+      "risk_level": "critical",
+      "progress": 21
     },
     {
       "country": "UK",
@@ -27710,6 +27721,50 @@
       "due_date": "2026-08-16",
       "risk_level": "high",
       "progress": 97
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20270",
+      "service_name": "Wohngeld Digital 21",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-17",
+      "risk_level": "high",
+      "progress": 79
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15956",
+      "service_name": "MonCompteFormation 7",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-17",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19825",
+      "service_name": "AusweisApp2 26",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-17",
+      "risk_level": "high",
+      "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18183",
+      "service_name": "Zoll Digital Services 34",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-17",
+      "risk_level": "high",
+      "progress": 36
     }
   ]
 }
