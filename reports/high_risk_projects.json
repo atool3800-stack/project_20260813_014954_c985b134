@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18",
-  "count": 2524,
+  "generated_at": "2026-08-19",
+  "count": 2533,
   "projects": [
     {
       "country": "UK",
@@ -13454,6 +13454,17 @@
       "due_date": "2026-08-17",
       "risk_level": "critical",
       "progress": 21
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13755",
+      "service_name": "GOV.UK Pay 6",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-18",
+      "risk_level": "critical",
+      "progress": 88
     },
     {
       "country": "UK",
@@ -27765,6 +27776,94 @@
       "due_date": "2026-08-17",
       "risk_level": "high",
       "progress": 36
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14259",
+      "service_name": "FranceConnect 10",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 43
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17884",
+      "service_name": "CAF Social Benefits 35",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 63
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12445",
+      "service_name": "DVLA Online Services 46",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 59
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16092",
+      "service_name": "MonCompteFormation 43",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 19
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15926",
+      "service_name": "CAF Social Benefits 27",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20203",
+      "service_name": "Digital Health Record 4",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18885",
+      "service_name": "Wohngeld Digital 36",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 13
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14536",
+      "service_name": "Sante.fr 37",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-18",
+      "risk_level": "high",
+      "progress": 33
     }
   ]
 }
