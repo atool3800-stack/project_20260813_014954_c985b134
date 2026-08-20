@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19",
-  "count": 2533,
+  "generated_at": "2026-08-20",
+  "count": 2542,
   "projects": [
     {
       "country": "UK",
@@ -13465,6 +13465,17 @@
       "due_date": "2026-08-18",
       "risk_level": "critical",
       "progress": 88
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14583",
+      "service_name": "Cadastre Numérique 34",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "critical",
+      "progress": 67
     },
     {
       "country": "UK",
@@ -27864,6 +27875,94 @@
       "due_date": "2026-08-18",
       "risk_level": "high",
       "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10369",
+      "service_name": "Border Control System 20",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 41
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11939",
+      "service_name": "NHS Digital Records 40",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12564",
+      "service_name": "Housing Benefit System 15",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21439",
+      "service_name": "Polizei Systeme 40",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11751",
+      "service_name": "HMRC Tax Digital 2",
+      "owner": "C. Martin",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15692",
+      "service_name": "CAF Social Benefits 43",
+      "owner": "V. Rousseau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 69
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11521",
+      "service_name": "Passport Office 22",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 29
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10499",
+      "service_name": "Police National Database 50",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-19",
+      "risk_level": "high",
+      "progress": 60
     }
   ]
 }
