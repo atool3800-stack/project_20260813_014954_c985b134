@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20",
-  "count": 2542,
+  "generated_at": "2026-08-21",
+  "count": 2554,
   "projects": [
     {
       "country": "UK",
@@ -13476,6 +13476,39 @@
       "due_date": "2026-08-19",
       "risk_level": "critical",
       "progress": 67
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17946",
+      "service_name": "ANTS Driving Licence 47",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-20",
+      "risk_level": "critical",
+      "progress": 61
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19885",
+      "service_name": "AusweisApp2 36",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-20",
+      "risk_level": "critical",
+      "progress": 95
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20793",
+      "service_name": "Digital Health Record 44",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-20",
+      "risk_level": "critical",
+      "progress": 23
     },
     {
       "country": "UK",
@@ -27963,6 +27996,105 @@
       "due_date": "2026-08-19",
       "risk_level": "high",
       "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20382",
+      "service_name": "Digital Health Record 33",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16217",
+      "service_name": "ANTS Driving Licence 18",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 13
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17378",
+      "service_name": "impots.gouv.fr 29",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 30
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21293",
+      "service_name": "Kfz-Zulassung Online 44",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19527",
+      "service_name": "Digital Health Record 28",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 88
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20184",
+      "service_name": "Wohngeld Digital 35",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 69
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12531",
+      "service_name": "Local Council Services 32",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14647",
+      "service_name": "FranceConnect 48",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19979",
+      "service_name": "Kfz-Zulassung Online 30",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-20",
+      "risk_level": "high",
+      "progress": 84
     }
   ]
 }
