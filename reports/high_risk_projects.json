@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21",
-  "count": 2554,
+  "generated_at": "2026-08-22",
+  "count": 2566,
   "projects": [
     {
       "country": "UK",
@@ -13509,6 +13509,39 @@
       "due_date": "2026-08-20",
       "risk_level": "critical",
       "progress": 23
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20196",
+      "service_name": "ELSTER Tax Portal 47",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "critical",
+      "progress": 77
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16411",
+      "service_name": "Sante.fr 12",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-21",
+      "risk_level": "critical",
+      "progress": 6
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15239",
+      "service_name": "CAF Social Benefits 40",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "critical",
+      "progress": 31
     },
     {
       "country": "UK",
@@ -28095,6 +28128,105 @@
       "due_date": "2026-08-20",
       "risk_level": "high",
       "progress": 84
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12408",
+      "service_name": "Police National Database 9",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 54
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15191",
+      "service_name": "Ameli Health Portal 42",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 24
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19076",
+      "service_name": "BA Portal 27",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19311",
+      "service_name": "ELSTER Tax Portal 12",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11297",
+      "service_name": "DVLA Online Services 48",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 13
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20516",
+      "service_name": "AusweisApp2 17",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 32
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11663",
+      "service_name": "Border Control System 14",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15905",
+      "service_name": "ANTS Driving Licence 6",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 97
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20225",
+      "service_name": "BundesID 26",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-21",
+      "risk_level": "high",
+      "progress": 5
     }
   ]
 }
