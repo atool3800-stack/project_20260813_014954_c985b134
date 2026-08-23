@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22",
-  "count": 2566,
+  "generated_at": "2026-08-23",
+  "count": 2576,
   "projects": [
     {
       "country": "UK",
@@ -13542,6 +13542,17 @@
       "due_date": "2026-08-21",
       "risk_level": "critical",
       "progress": 31
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19546",
+      "service_name": "Kfz-Zulassung Online 47",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-22",
+      "risk_level": "critical",
+      "progress": 75
     },
     {
       "country": "UK",
@@ -28227,6 +28238,105 @@
       "due_date": "2026-08-21",
       "risk_level": "high",
       "progress": 5
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13885",
+      "service_name": "Universal Credit Portal 36",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10199",
+      "service_name": "Local Council Services 50",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11308",
+      "service_name": "Passport Office 9",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 12
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12843",
+      "service_name": "Police National Database 44",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21617",
+      "service_name": "AusweisApp2 18",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 8
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15518",
+      "service_name": "FranceConnect 19",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13648",
+      "service_name": "HMRC Tax Digital 49",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14637",
+      "service_name": "Pole Emploi Portal 38",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15226",
+      "service_name": "MonCompteFormation 27",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-22",
+      "risk_level": "high",
+      "progress": 76
     }
   ]
 }
