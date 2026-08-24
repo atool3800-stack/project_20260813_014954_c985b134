@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23",
-  "count": 2576,
+  "generated_at": "2026-08-24",
+  "count": 2585,
   "projects": [
     {
       "country": "UK",
@@ -13553,6 +13553,39 @@
       "due_date": "2026-08-22",
       "risk_level": "critical",
       "progress": 75
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20700",
+      "service_name": "Wohngeld Digital 1",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-23",
+      "risk_level": "critical",
+      "progress": 12
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12033",
+      "service_name": "Housing Benefit System 34",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-23",
+      "risk_level": "critical",
+      "progress": 88
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20821",
+      "service_name": "Rentenversicherung Portal 22",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-23",
+      "risk_level": "critical",
+      "progress": 3
     },
     {
       "country": "UK",
@@ -28337,6 +28370,72 @@
       "due_date": "2026-08-22",
       "risk_level": "high",
       "progress": 76
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21635",
+      "service_name": "Rentenversicherung Portal 36",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21853",
+      "service_name": "Digital Health Record 4",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 6
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14405",
+      "service_name": "Cadastre Numérique 6",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 12
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10224",
+      "service_name": "Passport Office 25",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 97
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17365",
+      "service_name": "CAF Social Benefits 16",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 40
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18515",
+      "service_name": "Zoll Digital Services 16",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-23",
+      "risk_level": "high",
+      "progress": 47
     }
   ]
 }
