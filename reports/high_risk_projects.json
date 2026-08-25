@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24",
-  "count": 2585,
+  "generated_at": "2026-08-25",
+  "count": 2591,
   "projects": [
     {
       "country": "UK",
@@ -13586,6 +13586,28 @@
       "due_date": "2026-08-23",
       "risk_level": "critical",
       "progress": 3
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19838",
+      "service_name": "Zoll Digital Services 39",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-24",
+      "risk_level": "critical",
+      "progress": 20
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13493",
+      "service_name": "HMRC Tax Digital 44",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-08-24",
+      "risk_level": "critical",
+      "progress": 76
     },
     {
       "country": "UK",
@@ -28436,6 +28458,50 @@
       "due_date": "2026-08-23",
       "risk_level": "high",
       "progress": 47
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13001",
+      "service_name": "HMRC Tax Digital 2",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-24",
+      "risk_level": "high",
+      "progress": 83
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18796",
+      "service_name": "Wohngeld Digital 47",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-24",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17638",
+      "service_name": "MonCompteFormation 39",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-24",
+      "risk_level": "high",
+      "progress": 79
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12452",
+      "service_name": "Border Control System 3",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-24",
+      "risk_level": "high",
+      "progress": 85
     }
   ]
 }
