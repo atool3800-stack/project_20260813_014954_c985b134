@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25",
-  "count": 2591,
+  "generated_at": "2026-08-26",
+  "count": 2598,
   "projects": [
     {
       "country": "UK",
@@ -13608,6 +13608,17 @@
       "due_date": "2026-08-24",
       "risk_level": "critical",
       "progress": 76
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21160",
+      "service_name": "BA Portal 11",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-25",
+      "risk_level": "critical",
+      "progress": 51
     },
     {
       "country": "UK",
@@ -28502,6 +28513,72 @@
       "due_date": "2026-08-24",
       "risk_level": "high",
       "progress": 85
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10445",
+      "service_name": "Housing Benefit System 46",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18039",
+      "service_name": "Digital Health Record 40",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17451",
+      "service_name": "Cadastre Numérique 2",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19756",
+      "service_name": "Wohngeld Digital 7",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 54
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13705",
+      "service_name": "Housing Benefit System 6",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17769",
+      "service_name": "MonCompteFormation 20",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-25",
+      "risk_level": "high",
+      "progress": 55
     }
   ]
 }
