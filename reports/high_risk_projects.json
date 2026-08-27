@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26",
-  "count": 2598,
+  "generated_at": "2026-08-27",
+  "count": 2604,
   "projects": [
     {
       "country": "UK",
@@ -28579,6 +28579,72 @@
       "due_date": "2026-08-25",
       "risk_level": "high",
       "progress": 55
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12115",
+      "service_name": "NHS Digital Records 16",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 15
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14930",
+      "service_name": "Cadastre Numérique 31",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18787",
+      "service_name": "BA Portal 38",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 100
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13106",
+      "service_name": "NHS Digital Records 7",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12651",
+      "service_name": "GOV.UK Pay 2",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19508",
+      "service_name": "BA Portal 9",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-08-26",
+      "risk_level": "high",
+      "progress": 21
     }
   ]
 }
