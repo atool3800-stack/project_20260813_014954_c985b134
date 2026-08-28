@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27",
-  "count": 2604,
+  "generated_at": "2026-08-28",
+  "count": 2609,
   "projects": [
     {
       "country": "UK",
@@ -13619,6 +13619,28 @@
       "due_date": "2026-08-25",
       "risk_level": "critical",
       "progress": 51
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15319",
+      "service_name": "Cadastre Numérique 20",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-08-27",
+      "risk_level": "critical",
+      "progress": 94
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12337",
+      "service_name": "GOV.UK Pay 38",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-08-27",
+      "risk_level": "critical",
+      "progress": 52
     },
     {
       "country": "UK",
@@ -28645,6 +28667,39 @@
       "due_date": "2026-08-26",
       "risk_level": "high",
       "progress": 21
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21640",
+      "service_name": "BA Portal 41",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-27",
+      "risk_level": "high",
+      "progress": 65
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17210",
+      "service_name": "impots.gouv.fr 11",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-08-27",
+      "risk_level": "high",
+      "progress": 1
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11482",
+      "service_name": "Border Control System 33",
+      "owner": "C. Martin",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-08-27",
+      "risk_level": "high",
+      "progress": 81
     }
   ]
 }
