@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28",
-  "count": 2609,
+  "generated_at": "2026-08-29",
+  "count": 2616,
   "projects": [
     {
       "country": "UK",
@@ -13641,6 +13641,61 @@
       "due_date": "2026-08-27",
       "risk_level": "critical",
       "progress": 52
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19053",
+      "service_name": "Digital Health Record 4",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-28",
+      "risk_level": "critical",
+      "progress": 27
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14836",
+      "service_name": "Cadastre Numérique 37",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-28",
+      "risk_level": "critical",
+      "progress": 56
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14667",
+      "service_name": "FranceConnect 18",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-28",
+      "risk_level": "critical",
+      "progress": 24
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16970",
+      "service_name": "MonCompteFormation 21",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-08-28",
+      "risk_level": "critical",
+      "progress": 84
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16892",
+      "service_name": "impots.gouv.fr 43",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-08-28",
+      "risk_level": "critical",
+      "progress": 59
     },
     {
       "country": "UK",
@@ -28700,6 +28755,28 @@
       "due_date": "2026-08-27",
       "risk_level": "high",
       "progress": 81
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17709",
+      "service_name": "Sante.fr 10",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-08-28",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14921",
+      "service_name": "ANTS Driving Licence 22",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-08-28",
+      "risk_level": "high",
+      "progress": 75
     }
   ]
 }
