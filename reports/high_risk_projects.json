@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01",
-  "count": 2616,
+  "generated_at": "2026-09-02",
+  "count": 2624,
   "projects": [
     {
       "country": "UK",
@@ -13696,6 +13696,39 @@
       "due_date": "2026-08-28",
       "risk_level": "critical",
       "progress": 59
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18212",
+      "service_name": "Polizei Systeme 13",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-01",
+      "risk_level": "critical",
+      "progress": 91
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11697",
+      "service_name": "Universal Credit Portal 48",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-01",
+      "risk_level": "critical",
+      "progress": 2
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11005",
+      "service_name": "HMRC Tax Digital 6",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-01",
+      "risk_level": "critical",
+      "progress": 4
     },
     {
       "country": "UK",
@@ -28777,6 +28810,61 @@
       "due_date": "2026-08-28",
       "risk_level": "high",
       "progress": 75
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20253",
+      "service_name": "Zoll Digital Services 4",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-01",
+      "risk_level": "high",
+      "progress": 79
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13211",
+      "service_name": "Universal Credit Portal 12",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-01",
+      "risk_level": "high",
+      "progress": 56
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13707",
+      "service_name": "GOV.UK Pay 8",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-01",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19220",
+      "service_name": "Zoll Digital Services 21",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-01",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21274",
+      "service_name": "ELSTER Tax Portal 25",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-01",
+      "risk_level": "high",
+      "progress": 50
     }
   ]
 }
