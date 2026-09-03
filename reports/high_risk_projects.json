@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02",
-  "count": 2624,
+  "generated_at": "2026-09-03",
+  "count": 2630,
   "projects": [
     {
       "country": "UK",
@@ -13729,6 +13729,39 @@
       "due_date": "2026-09-01",
       "risk_level": "critical",
       "progress": 4
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17844",
+      "service_name": "ANTS Driving Licence 45",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-02",
+      "risk_level": "critical",
+      "progress": 59
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20277",
+      "service_name": "BundesID 28",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-02",
+      "risk_level": "critical",
+      "progress": 79
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15798",
+      "service_name": "Gendarmerie Nationale 49",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-02",
+      "risk_level": "critical",
+      "progress": 57
     },
     {
       "country": "UK",
@@ -28865,6 +28898,39 @@
       "due_date": "2026-09-01",
       "risk_level": "high",
       "progress": 50
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16530",
+      "service_name": "Ameli Health Portal 31",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-02",
+      "risk_level": "high",
+      "progress": 29
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17412",
+      "service_name": "Sante.fr 13",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-02",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13415",
+      "service_name": "HMRC Tax Digital 16",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-02",
+      "risk_level": "high",
+      "progress": 55
     }
   ]
 }
