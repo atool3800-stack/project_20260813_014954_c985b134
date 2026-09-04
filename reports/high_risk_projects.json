@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03",
-  "count": 2630,
+  "generated_at": "2026-09-04",
+  "count": 2639,
   "projects": [
     {
       "country": "UK",
@@ -13762,6 +13762,39 @@
       "due_date": "2026-09-02",
       "risk_level": "critical",
       "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14653",
+      "service_name": "Cadastre Numérique 4",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-03",
+      "risk_level": "critical",
+      "progress": 5
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13115",
+      "service_name": "Police National Database 16",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-03",
+      "risk_level": "critical",
+      "progress": 14
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15024",
+      "service_name": "MonCompteFormation 25",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-03",
+      "risk_level": "critical",
+      "progress": 15
     },
     {
       "country": "UK",
@@ -28931,6 +28964,72 @@
       "due_date": "2026-09-02",
       "risk_level": "high",
       "progress": 55
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21066",
+      "service_name": "AusweisApp2 17",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17288",
+      "service_name": "FranceConnect 39",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 78
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16862",
+      "service_name": "Ameli Health Portal 13",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20939",
+      "service_name": "Zoll Digital Services 40",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10868",
+      "service_name": "Housing Benefit System 19",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12250",
+      "service_name": "Local Council Services 1",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-03",
+      "risk_level": "high",
+      "progress": 36
     }
   ]
 }
