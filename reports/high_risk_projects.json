@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04",
-  "count": 2639,
+  "generated_at": "2026-09-05",
+  "count": 2653,
   "projects": [
     {
       "country": "UK",
@@ -13795,6 +13795,50 @@
       "due_date": "2026-09-03",
       "risk_level": "critical",
       "progress": 15
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10006",
+      "service_name": "Housing Benefit System 7",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-04",
+      "risk_level": "critical",
+      "progress": 48
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17742",
+      "service_name": "Gendarmerie Nationale 43",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-04",
+      "risk_level": "critical",
+      "progress": 26
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20421",
+      "service_name": "Rentenversicherung Portal 22",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-04",
+      "risk_level": "critical",
+      "progress": 99
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21196",
+      "service_name": "BA Portal 47",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "critical",
+      "progress": 4
     },
     {
       "country": "UK",
@@ -29030,6 +29074,116 @@
       "due_date": "2026-09-03",
       "risk_level": "high",
       "progress": 36
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19352",
+      "service_name": "Wohngeld Digital 3",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14300",
+      "service_name": "ANTS Driving Licence 1",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19376",
+      "service_name": "Rentenversicherung Portal 27",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12976",
+      "service_name": "GOV.UK Pay 27",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12570",
+      "service_name": "GOV.UK Pay 21",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 85
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19221",
+      "service_name": "Zoll Digital Services 22",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 88
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20179",
+      "service_name": "BA Portal 30",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 47
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13077",
+      "service_name": "NHS Digital Records 28",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 96
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20529",
+      "service_name": "Wohngeld Digital 30",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19366",
+      "service_name": "Rentenversicherung Portal 17",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-04",
+      "risk_level": "high",
+      "progress": 12
     }
   ]
 }
