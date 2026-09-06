@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05",
-  "count": 2653,
+  "generated_at": "2026-09-06",
+  "count": 2667,
   "projects": [
     {
       "country": "UK",
@@ -13839,6 +13839,50 @@
       "due_date": "2026-09-04",
       "risk_level": "critical",
       "progress": 4
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15669",
+      "service_name": "CAF Social Benefits 20",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-05",
+      "risk_level": "critical",
+      "progress": 41
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21941",
+      "service_name": "Kfz-Zulassung Online 42",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "critical",
+      "progress": 21
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13039",
+      "service_name": "Local Council Services 40",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "critical",
+      "progress": 94
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20709",
+      "service_name": "ELSTER Tax Portal 10",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "critical",
+      "progress": 35
     },
     {
       "country": "UK",
@@ -29184,6 +29228,116 @@
       "due_date": "2026-09-04",
       "risk_level": "high",
       "progress": 12
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17736",
+      "service_name": "CAF Social Benefits 37",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15733",
+      "service_name": "Pole Emploi Portal 34",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 59
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10221",
+      "service_name": "HMRC Tax Digital 22",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13132",
+      "service_name": "Police National Database 33",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 39
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16119",
+      "service_name": "Sante.fr 20",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20638",
+      "service_name": "AusweisApp2 39",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 100
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12552",
+      "service_name": "NHS Digital Records 3",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 1
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13053",
+      "service_name": "DVLA Online Services 4",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18842",
+      "service_name": "Zoll Digital Services 43",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 70
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21944",
+      "service_name": "Digital Health Record 45",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-05",
+      "risk_level": "high",
+      "progress": 18
     }
   ]
 }
