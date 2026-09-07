@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06",
-  "count": 2667,
+  "generated_at": "2026-09-07",
+  "count": 2677,
   "projects": [
     {
       "country": "UK",
@@ -13883,6 +13883,39 @@
       "due_date": "2026-09-05",
       "risk_level": "critical",
       "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21663",
+      "service_name": "ELSTER Tax Portal 14",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "critical",
+      "progress": 77
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14603",
+      "service_name": "Cadastre Numérique 4",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-06",
+      "risk_level": "critical",
+      "progress": 68
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15618",
+      "service_name": "Pole Emploi Portal 19",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "critical",
+      "progress": 90
     },
     {
       "country": "UK",
@@ -29338,6 +29371,83 @@
       "due_date": "2026-09-05",
       "risk_level": "high",
       "progress": 18
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21244",
+      "service_name": "BA Portal 45",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21925",
+      "service_name": "Zoll Digital Services 26",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 44
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18608",
+      "service_name": "Rentenversicherung Portal 9",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 24
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16750",
+      "service_name": "Gendarmerie Nationale 1",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 67
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18541",
+      "service_name": "BA Portal 42",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19433",
+      "service_name": "ELSTER Tax Portal 34",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20659",
+      "service_name": "Wohngeld Digital 10",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-06",
+      "risk_level": "high",
+      "progress": 30
     }
   ]
 }
