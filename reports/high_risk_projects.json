@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07",
-  "count": 2677,
+  "generated_at": "2026-09-08",
+  "count": 2684,
   "projects": [
     {
       "country": "UK",
@@ -13916,6 +13916,28 @@
       "due_date": "2026-09-06",
       "risk_level": "critical",
       "progress": 90
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17486",
+      "service_name": "impots.gouv.fr 37",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-07",
+      "risk_level": "critical",
+      "progress": 58
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21589",
+      "service_name": "Digital Health Record 40",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-07",
+      "risk_level": "critical",
+      "progress": 27
     },
     {
       "country": "UK",
@@ -29448,6 +29470,61 @@
       "due_date": "2026-09-06",
       "risk_level": "high",
       "progress": 30
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20161",
+      "service_name": "BA Portal 12",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-07",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12669",
+      "service_name": "Passport Office 20",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-07",
+      "risk_level": "high",
+      "progress": 46
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12967",
+      "service_name": "Border Control System 18",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-07",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14493",
+      "service_name": "CAF Social Benefits 44",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-07",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12083",
+      "service_name": "HMRC Tax Digital 34",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-07",
+      "risk_level": "high",
+      "progress": 82
     }
   ]
 }
