@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08",
-  "count": 2684,
+  "generated_at": "2026-09-09",
+  "count": 2694,
   "projects": [
     {
       "country": "UK",
@@ -13938,6 +13938,50 @@
       "due_date": "2026-09-07",
       "risk_level": "critical",
       "progress": 27
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10599",
+      "service_name": "Police National Database 50",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "critical",
+      "progress": 66
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20986",
+      "service_name": "Digital Health Record 37",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "critical",
+      "progress": 93
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12367",
+      "service_name": "Universal Credit Portal 18",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "critical",
+      "progress": 47
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18526",
+      "service_name": "BundesID 27",
+      "owner": "A. Patel",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "critical",
+      "progress": 14
     },
     {
       "country": "UK",
@@ -29525,6 +29569,72 @@
       "due_date": "2026-09-07",
       "risk_level": "high",
       "progress": 82
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18896",
+      "service_name": "Polizei Systeme 47",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 73
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21180",
+      "service_name": "BundesID 31",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11661",
+      "service_name": "Housing Benefit System 12",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 52
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21816",
+      "service_name": "BundesID 17",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12842",
+      "service_name": "Universal Credit Portal 43",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19208",
+      "service_name": "Wohngeld Digital 9",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-08",
+      "risk_level": "high",
+      "progress": 6
     }
   ]
 }
