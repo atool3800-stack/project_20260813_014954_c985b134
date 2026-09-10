@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09",
-  "count": 2694,
+  "generated_at": "2026-09-10",
+  "count": 2702,
   "projects": [
     {
       "country": "UK",
@@ -13982,6 +13982,17 @@
       "due_date": "2026-09-08",
       "risk_level": "critical",
       "progress": 14
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10290",
+      "service_name": "HMRC Tax Digital 41",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-09",
+      "risk_level": "critical",
+      "progress": 89
     },
     {
       "country": "UK",
@@ -29635,6 +29646,83 @@
       "due_date": "2026-09-08",
       "risk_level": "high",
       "progress": 6
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10668",
+      "service_name": "Universal Credit Portal 19",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 73
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15537",
+      "service_name": "Pole Emploi Portal 38",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 43
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14123",
+      "service_name": "impots.gouv.fr 24",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 95
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18738",
+      "service_name": "Polizei Systeme 39",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11587",
+      "service_name": "Border Control System 38",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17746",
+      "service_name": "Ameli Health Portal 47",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 76
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14584",
+      "service_name": "Sante.fr 35",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-09",
+      "risk_level": "high",
+      "progress": 97
     }
   ]
 }
