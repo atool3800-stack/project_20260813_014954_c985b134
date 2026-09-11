@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10",
-  "count": 2702,
+  "generated_at": "2026-09-11",
+  "count": 2710,
   "projects": [
     {
       "country": "UK",
@@ -13993,6 +13993,17 @@
       "due_date": "2026-09-09",
       "risk_level": "critical",
       "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20863",
+      "service_name": "Kfz-Zulassung Online 14",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-10",
+      "risk_level": "critical",
+      "progress": 63
     },
     {
       "country": "UK",
@@ -29723,6 +29734,83 @@
       "due_date": "2026-09-09",
       "risk_level": "high",
       "progress": 97
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10257",
+      "service_name": "GOV.UK Pay 8",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 32
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20588",
+      "service_name": "BA Portal 39",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 76
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18006",
+      "service_name": "BundesID 7",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16361",
+      "service_name": "Cadastre Numérique 12",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 56
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18050",
+      "service_name": "Kfz-Zulassung Online 1",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18422",
+      "service_name": "BundesID 23",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 73
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12684",
+      "service_name": "HMRC Tax Digital 35",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-10",
+      "risk_level": "high",
+      "progress": 83
     }
   ]
 }
