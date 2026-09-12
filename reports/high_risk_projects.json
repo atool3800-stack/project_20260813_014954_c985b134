@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11",
-  "count": 2710,
+  "generated_at": "2026-09-12",
+  "count": 2721,
   "projects": [
     {
       "country": "UK",
@@ -14004,6 +14004,50 @@
       "due_date": "2026-09-10",
       "risk_level": "critical",
       "progress": 63
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18654",
+      "service_name": "BundesID 5",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-11",
+      "risk_level": "critical",
+      "progress": 13
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19533",
+      "service_name": "Wohngeld Digital 34",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-11",
+      "risk_level": "critical",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15646",
+      "service_name": "Cadastre Numérique 47",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-11",
+      "risk_level": "critical",
+      "progress": 48
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10058",
+      "service_name": "HMRC Tax Digital 9",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-11",
+      "risk_level": "critical",
+      "progress": 14
     },
     {
       "country": "UK",
@@ -29811,6 +29855,83 @@
       "due_date": "2026-09-10",
       "risk_level": "high",
       "progress": 83
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12734",
+      "service_name": "GOV.UK Pay 35",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 41
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10157",
+      "service_name": "Universal Credit Portal 8",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 28
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10830",
+      "service_name": "DVLA Online Services 31",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 85
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20999",
+      "service_name": "Polizei Systeme 50",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21158",
+      "service_name": "ELSTER Tax Portal 9",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 13
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15731",
+      "service_name": "ANTS Driving Licence 32",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17957",
+      "service_name": "Sante.fr 8",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-11",
+      "risk_level": "high",
+      "progress": 5
     }
   ]
 }
