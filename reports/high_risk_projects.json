@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12",
-  "count": 2721,
+  "generated_at": "2026-09-13",
+  "count": 2728,
   "projects": [
     {
       "country": "UK",
@@ -14048,6 +14048,17 @@
       "due_date": "2026-09-11",
       "risk_level": "critical",
       "progress": 14
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16401",
+      "service_name": "Ameli Health Portal 2",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-12",
+      "risk_level": "critical",
+      "progress": 60
     },
     {
       "country": "UK",
@@ -29932,6 +29943,72 @@
       "due_date": "2026-09-11",
       "risk_level": "high",
       "progress": 5
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18181",
+      "service_name": "ELSTER Tax Portal 32",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 37
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14765",
+      "service_name": "Pole Emploi Portal 16",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 86
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13768",
+      "service_name": "Border Control System 19",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12214",
+      "service_name": "Border Control System 15",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 73
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11140",
+      "service_name": "DVLA Online Services 41",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 15
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11399",
+      "service_name": "HMRC Tax Digital 50",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-12",
+      "risk_level": "high",
+      "progress": 57
     }
   ]
 }
