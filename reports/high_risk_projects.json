@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13",
-  "count": 2728,
+  "generated_at": "2026-09-14",
+  "count": 2736,
   "projects": [
     {
       "country": "UK",
@@ -14059,6 +14059,50 @@
       "due_date": "2026-09-12",
       "risk_level": "critical",
       "progress": 60
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12811",
+      "service_name": "Border Control System 12",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-13",
+      "risk_level": "critical",
+      "progress": 8
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19319",
+      "service_name": "Polizei Systeme 20",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-13",
+      "risk_level": "critical",
+      "progress": 32
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13044",
+      "service_name": "DVLA Online Services 45",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-13",
+      "risk_level": "critical",
+      "progress": 13
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21215",
+      "service_name": "ELSTER Tax Portal 16",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-13",
+      "risk_level": "critical",
+      "progress": 43
     },
     {
       "country": "UK",
@@ -30009,6 +30053,50 @@
       "due_date": "2026-09-12",
       "risk_level": "high",
       "progress": 57
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13852",
+      "service_name": "GOV.UK Pay 3",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-13",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20343",
+      "service_name": "AusweisApp2 44",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-13",
+      "risk_level": "high",
+      "progress": 88
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21010",
+      "service_name": "Digital Health Record 11",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-13",
+      "risk_level": "high",
+      "progress": 51
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16056",
+      "service_name": "Pole Emploi Portal 7",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-13",
+      "risk_level": "high",
+      "progress": 46
     }
   ]
 }
