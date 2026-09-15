@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14",
-  "count": 2736,
+  "generated_at": "2026-09-15",
+  "count": 2745,
   "projects": [
     {
       "country": "UK",
@@ -14103,6 +14103,50 @@
       "due_date": "2026-09-13",
       "risk_level": "critical",
       "progress": 43
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19815",
+      "service_name": "BundesID 16",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-14",
+      "risk_level": "critical",
+      "progress": 8
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10383",
+      "service_name": "DVLA Online Services 34",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-14",
+      "risk_level": "critical",
+      "progress": 29
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14011",
+      "service_name": "FranceConnect 12",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-14",
+      "risk_level": "critical",
+      "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16720",
+      "service_name": "CAF Social Benefits 21",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-14",
+      "risk_level": "critical",
+      "progress": 11
     },
     {
       "country": "UK",
@@ -30097,6 +30141,61 @@
       "due_date": "2026-09-13",
       "risk_level": "high",
       "progress": 46
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21642",
+      "service_name": "Kfz-Zulassung Online 43",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-14",
+      "risk_level": "high",
+      "progress": 95
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16037",
+      "service_name": "FranceConnect 38",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-14",
+      "risk_level": "high",
+      "progress": 30
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17530",
+      "service_name": "Sante.fr 31",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-14",
+      "risk_level": "high",
+      "progress": 3
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16334",
+      "service_name": "FranceConnect 35",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-14",
+      "risk_level": "high",
+      "progress": 54
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13334",
+      "service_name": "Universal Credit Portal 35",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-14",
+      "risk_level": "high",
+      "progress": 39
     }
   ]
 }
