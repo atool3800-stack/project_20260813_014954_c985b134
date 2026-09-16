@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15",
-  "count": 2745,
+  "generated_at": "2026-09-16",
+  "count": 2752,
   "projects": [
     {
       "country": "UK",
@@ -14147,6 +14147,39 @@
       "due_date": "2026-09-14",
       "risk_level": "critical",
       "progress": 11
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16228",
+      "service_name": "ANTS Driving Licence 29",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-15",
+      "risk_level": "critical",
+      "progress": 12
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12671",
+      "service_name": "Passport Office 22",
+      "owner": "L. Smith",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-15",
+      "risk_level": "critical",
+      "progress": 65
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16079",
+      "service_name": "Pole Emploi Portal 30",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-15",
+      "risk_level": "critical",
+      "progress": 66
     },
     {
       "country": "UK",
@@ -30196,6 +30229,50 @@
       "due_date": "2026-09-14",
       "risk_level": "high",
       "progress": 39
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15390",
+      "service_name": "impots.gouv.fr 41",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-15",
+      "risk_level": "high",
+      "progress": 40
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13792",
+      "service_name": "HMRC Tax Digital 43",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-15",
+      "risk_level": "high",
+      "progress": 0
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19878",
+      "service_name": "BundesID 29",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-15",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10504",
+      "service_name": "Police National Database 5",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-15",
+      "risk_level": "high",
+      "progress": 1
     }
   ]
 }
