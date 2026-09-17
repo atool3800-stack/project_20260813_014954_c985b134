@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16",
-  "count": 2752,
+  "generated_at": "2026-09-17",
+  "count": 2764,
   "projects": [
     {
       "country": "UK",
@@ -14180,6 +14180,72 @@
       "due_date": "2026-09-15",
       "risk_level": "critical",
       "progress": 66
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20905",
+      "service_name": "Wohngeld Digital 6",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 97
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15422",
+      "service_name": "MonCompteFormation 23",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 78
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20702",
+      "service_name": "Rentenversicherung Portal 3",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 91
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13416",
+      "service_name": "Local Council Services 17",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 5
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21147",
+      "service_name": "Zoll Digital Services 48",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 16
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18745",
+      "service_name": "BA Portal 46",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "critical",
+      "progress": 94
     },
     {
       "country": "UK",
@@ -30273,6 +30339,72 @@
       "due_date": "2026-09-15",
       "risk_level": "high",
       "progress": 1
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21513",
+      "service_name": "Rentenversicherung Portal 14",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 89
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10066",
+      "service_name": "Passport Office 17",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 94
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20762",
+      "service_name": "Rentenversicherung Portal 13",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 14
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10691",
+      "service_name": "GOV.UK Pay 42",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14663",
+      "service_name": "MonCompteFormation 14",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 44
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17674",
+      "service_name": "Cadastre Numérique 25",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-16",
+      "risk_level": "high",
+      "progress": 37
     }
   ]
 }
