@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17",
-  "count": 2764,
+  "generated_at": "2026-09-18",
+  "count": 2770,
   "projects": [
     {
       "country": "UK",
@@ -14246,6 +14246,39 @@
       "due_date": "2026-09-16",
       "risk_level": "critical",
       "progress": 94
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11458",
+      "service_name": "GOV.UK Pay 9",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-17",
+      "risk_level": "critical",
+      "progress": 77
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19805",
+      "service_name": "Kfz-Zulassung Online 6",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-17",
+      "risk_level": "critical",
+      "progress": 16
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15643",
+      "service_name": "FranceConnect 44",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-17",
+      "risk_level": "critical",
+      "progress": 32
     },
     {
       "country": "UK",
@@ -30405,6 +30438,39 @@
       "due_date": "2026-09-16",
       "risk_level": "high",
       "progress": 37
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15858",
+      "service_name": "Pole Emploi Portal 9",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-17",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18963",
+      "service_name": "BundesID 14",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-17",
+      "risk_level": "high",
+      "progress": 76
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11400",
+      "service_name": "Universal Credit Portal 1",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-17",
+      "risk_level": "high",
+      "progress": 21
     }
   ]
 }
