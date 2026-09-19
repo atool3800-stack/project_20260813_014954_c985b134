@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18",
-  "count": 2770,
+  "generated_at": "2026-09-19",
+  "count": 2781,
   "projects": [
     {
       "country": "UK",
@@ -14279,6 +14279,28 @@
       "due_date": "2026-09-17",
       "risk_level": "critical",
       "progress": 32
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21732",
+      "service_name": "Kfz-Zulassung Online 33",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-18",
+      "risk_level": "critical",
+      "progress": 65
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19481",
+      "service_name": "AusweisApp2 32",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-18",
+      "risk_level": "critical",
+      "progress": 13
     },
     {
       "country": "UK",
@@ -30471,6 +30493,105 @@
       "due_date": "2026-09-17",
       "risk_level": "high",
       "progress": 21
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15205",
+      "service_name": "Sante.fr 6",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 3
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15169",
+      "service_name": "FranceConnect 20",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19321",
+      "service_name": "Zoll Digital Services 22",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21645",
+      "service_name": "BundesID 46",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14618",
+      "service_name": "FranceConnect 19",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 8
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20122",
+      "service_name": "Wohngeld Digital 23",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 7
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19714",
+      "service_name": "BundesID 15",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 40
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16773",
+      "service_name": "Sante.fr 24",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 21
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13836",
+      "service_name": "Local Council Services 37",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-18",
+      "risk_level": "high",
+      "progress": 27
     }
   ]
 }
