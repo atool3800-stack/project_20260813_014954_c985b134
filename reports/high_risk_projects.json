@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19",
-  "count": 2781,
+  "generated_at": "2026-09-20",
+  "count": 2790,
   "projects": [
     {
       "country": "UK",
@@ -14301,6 +14301,50 @@
       "due_date": "2026-09-18",
       "risk_level": "critical",
       "progress": 13
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17320",
+      "service_name": "Pole Emploi Portal 21",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-19",
+      "risk_level": "critical",
+      "progress": 88
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17469",
+      "service_name": "Cadastre Numérique 20",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-19",
+      "risk_level": "critical",
+      "progress": 32
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12056",
+      "service_name": "Universal Credit Portal 7",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-19",
+      "risk_level": "critical",
+      "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21779",
+      "service_name": "Zoll Digital Services 30",
+      "owner": "L. Smith",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-19",
+      "risk_level": "critical",
+      "progress": 80
     },
     {
       "country": "UK",
@@ -30592,6 +30636,61 @@
       "due_date": "2026-09-18",
       "risk_level": "high",
       "progress": 27
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16799",
+      "service_name": "impots.gouv.fr 50",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-19",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21619",
+      "service_name": "Zoll Digital Services 20",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-19",
+      "risk_level": "high",
+      "progress": 68
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11309",
+      "service_name": "Border Control System 10",
+      "owner": "C. Martin",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-19",
+      "risk_level": "high",
+      "progress": 91
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21643",
+      "service_name": "ELSTER Tax Portal 44",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-19",
+      "risk_level": "high",
+      "progress": 48
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20314",
+      "service_name": "Kfz-Zulassung Online 15",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-19",
+      "risk_level": "high",
+      "progress": 38
     }
   ]
 }
