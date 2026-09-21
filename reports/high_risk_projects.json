@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20",
-  "count": 2790,
+  "generated_at": "2026-09-21",
+  "count": 2798,
   "projects": [
     {
       "country": "UK",
@@ -14345,6 +14345,28 @@
       "due_date": "2026-09-19",
       "risk_level": "critical",
       "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20127",
+      "service_name": "Zoll Digital Services 28",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-20",
+      "risk_level": "critical",
+      "progress": 55
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13024",
+      "service_name": "Universal Credit Portal 25",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-20",
+      "risk_level": "critical",
+      "progress": 54
     },
     {
       "country": "UK",
@@ -30691,6 +30713,72 @@
       "due_date": "2026-09-19",
       "risk_level": "high",
       "progress": 38
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13538",
+      "service_name": "Housing Benefit System 39",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11124",
+      "service_name": "Passport Office 25",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21012",
+      "service_name": "BundesID 13",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 1
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18776",
+      "service_name": "ELSTER Tax Portal 27",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 88
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15697",
+      "service_name": "impots.gouv.fr 48",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16255",
+      "service_name": "Cadastre Numérique 6",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-20",
+      "risk_level": "high",
+      "progress": 20
     }
   ]
 }
