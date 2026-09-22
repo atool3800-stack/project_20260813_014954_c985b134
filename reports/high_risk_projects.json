@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21",
-  "count": 2798,
+  "generated_at": "2026-09-22",
+  "count": 2809,
   "projects": [
     {
       "country": "UK",
@@ -14365,6 +14365,50 @@
       "status": "on_track",
       "priority": "low",
       "due_date": "2026-09-20",
+      "risk_level": "critical",
+      "progress": 54
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19471",
+      "service_name": "BundesID 22",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-21",
+      "risk_level": "critical",
+      "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18423",
+      "service_name": "AusweisApp2 24",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-21",
+      "risk_level": "critical",
+      "progress": 93
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12322",
+      "service_name": "Local Council Services 23",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-21",
+      "risk_level": "critical",
+      "progress": 14
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16647",
+      "service_name": "Pole Emploi Portal 48",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-21",
       "risk_level": "critical",
       "progress": 54
     },
@@ -30779,6 +30823,83 @@
       "due_date": "2026-09-20",
       "risk_level": "high",
       "progress": 20
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18199",
+      "service_name": "Rentenversicherung Portal 50",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18082",
+      "service_name": "AusweisApp2 33",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 79
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14000",
+      "service_name": "Cadastre Numérique 1",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14048",
+      "service_name": "CAF Social Benefits 49",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 52
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19489",
+      "service_name": "Digital Health Record 40",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15953",
+      "service_name": "Sante.fr 4",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 18
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10529",
+      "service_name": "DVLA Online Services 30",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-21",
+      "risk_level": "high",
+      "progress": 85
     }
   ]
 }
