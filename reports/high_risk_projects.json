@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22",
-  "count": 2809,
+  "generated_at": "2026-09-23",
+  "count": 2817,
   "projects": [
     {
       "country": "UK",
@@ -14411,6 +14411,28 @@
       "due_date": "2026-09-21",
       "risk_level": "critical",
       "progress": 54
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15741",
+      "service_name": "impots.gouv.fr 42",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-22",
+      "risk_level": "critical",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19599",
+      "service_name": "Wohngeld Digital 50",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-22",
+      "risk_level": "critical",
+      "progress": 49
     },
     {
       "country": "UK",
@@ -30900,6 +30922,72 @@
       "due_date": "2026-09-21",
       "risk_level": "high",
       "progress": 85
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18046",
+      "service_name": "AusweisApp2 47",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16655",
+      "service_name": "CAF Social Benefits 6",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 65
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16428",
+      "service_name": "CAF Social Benefits 29",
+      "owner": "N. Moreau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 59
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11682",
+      "service_name": "Police National Database 33",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 90
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10940",
+      "service_name": "Police National Database 41",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 37
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20723",
+      "service_name": "Zoll Digital Services 24",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-22",
+      "risk_level": "high",
+      "progress": 18
     }
   ]
 }
