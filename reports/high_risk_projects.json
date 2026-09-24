@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23",
-  "count": 2817,
+  "generated_at": "2026-09-24",
+  "count": 2824,
   "projects": [
     {
       "country": "UK",
@@ -14433,6 +14433,39 @@
       "due_date": "2026-09-22",
       "risk_level": "critical",
       "progress": 49
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15272",
+      "service_name": "Pole Emploi Portal 23",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-23",
+      "risk_level": "critical",
+      "progress": 56
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14812",
+      "service_name": "Cadastre Numérique 13",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-23",
+      "risk_level": "critical",
+      "progress": 46
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17405",
+      "service_name": "Sante.fr 6",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-23",
+      "risk_level": "critical",
+      "progress": 22
     },
     {
       "country": "UK",
@@ -30988,6 +31021,50 @@
       "due_date": "2026-09-22",
       "risk_level": "high",
       "progress": 18
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13488",
+      "service_name": "GOV.UK Pay 39",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-23",
+      "risk_level": "high",
+      "progress": 63
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18357",
+      "service_name": "AusweisApp2 8",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-09-23",
+      "risk_level": "high",
+      "progress": 5
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12656",
+      "service_name": "Police National Database 7",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-23",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18739",
+      "service_name": "Zoll Digital Services 40",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-23",
+      "risk_level": "high",
+      "progress": 36
     }
   ]
 }
