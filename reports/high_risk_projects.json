@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25",
-  "count": 2834,
+  "generated_at": "2026-09-26",
+  "count": 2842,
   "projects": [
     {
       "country": "UK",
@@ -14488,6 +14488,17 @@
       "due_date": "2026-09-24",
       "risk_level": "critical",
       "progress": 34
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12006",
+      "service_name": "GOV.UK Pay 7",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-25",
+      "risk_level": "critical",
+      "progress": 98
     },
     {
       "country": "UK",
@@ -31175,6 +31186,83 @@
       "due_date": "2026-09-24",
       "risk_level": "high",
       "progress": 77
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10531",
+      "service_name": "Local Council Services 32",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21912",
+      "service_name": "Kfz-Zulassung Online 13",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 7
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16903",
+      "service_name": "Sante.fr 4",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 43
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16524",
+      "service_name": "FranceConnect 25",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 49
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21692",
+      "service_name": "Zoll Digital Services 43",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 15
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17454",
+      "service_name": "ANTS Driving Licence 5",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10021",
+      "service_name": "Housing Benefit System 22",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-25",
+      "risk_level": "high",
+      "progress": 0
     }
   ]
 }
