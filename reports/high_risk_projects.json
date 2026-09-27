@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26",
-  "count": 2842,
+  "generated_at": "2026-09-27",
+  "count": 2854,
   "projects": [
     {
       "country": "UK",
@@ -14499,6 +14499,50 @@
       "due_date": "2026-09-25",
       "risk_level": "critical",
       "progress": 98
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11209",
+      "service_name": "Passport Office 10",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "critical",
+      "progress": 55
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18590",
+      "service_name": "Polizei Systeme 41",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-26",
+      "risk_level": "critical",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19882",
+      "service_name": "BA Portal 33",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-26",
+      "risk_level": "critical",
+      "progress": 100
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16529",
+      "service_name": "Sante.fr 30",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "critical",
+      "progress": 99
     },
     {
       "country": "UK",
@@ -31263,6 +31307,94 @@
       "due_date": "2026-09-25",
       "risk_level": "high",
       "progress": 0
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18743",
+      "service_name": "Rentenversicherung Portal 44",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21336",
+      "service_name": "Digital Health Record 37",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11455",
+      "service_name": "Passport Office 6",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 3
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19930",
+      "service_name": "Kfz-Zulassung Online 31",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 59
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15204",
+      "service_name": "CAF Social Benefits 5",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10440",
+      "service_name": "GOV.UK Pay 41",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 94
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12514",
+      "service_name": "Police National Database 15",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 94
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15199",
+      "service_name": "Sante.fr 50",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-26",
+      "risk_level": "high",
+      "progress": 97
     }
   ]
 }
