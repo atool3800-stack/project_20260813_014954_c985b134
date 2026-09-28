@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27",
-  "count": 2854,
+  "generated_at": "2026-09-28",
+  "count": 2868,
   "projects": [
     {
       "country": "UK",
@@ -14543,6 +14543,39 @@
       "due_date": "2026-09-26",
       "risk_level": "critical",
       "progress": 99
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11961",
+      "service_name": "DVLA Online Services 12",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-27",
+      "risk_level": "critical",
+      "progress": 59
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21258",
+      "service_name": "BundesID 9",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-27",
+      "risk_level": "critical",
+      "progress": 81
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19451",
+      "service_name": "ELSTER Tax Portal 2",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "critical",
+      "progress": 17
     },
     {
       "country": "UK",
@@ -31395,6 +31428,127 @@
       "due_date": "2026-09-26",
       "risk_level": "high",
       "progress": 97
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17895",
+      "service_name": "Ameli Health Portal 46",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 58
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10397",
+      "service_name": "HMRC Tax Digital 48",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 97
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10604",
+      "service_name": "Border Control System 5",
+      "owner": "C. Martin",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 65
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16567",
+      "service_name": "MonCompteFormation 18",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 63
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16135",
+      "service_name": "CAF Social Benefits 36",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 36
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21678",
+      "service_name": "ELSTER Tax Portal 29",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15962",
+      "service_name": "Ameli Health Portal 13",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17228",
+      "service_name": "ANTS Driving Licence 29",
+      "owner": "N. Moreau",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17330",
+      "service_name": "ANTS Driving Licence 31",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17501",
+      "service_name": "FranceConnect 2",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 22
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13117",
+      "service_name": "NHS Digital Records 18",
+      "owner": "A. Patel",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-27",
+      "risk_level": "high",
+      "progress": 25
     }
   ]
 }
