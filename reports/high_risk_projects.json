@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28",
-  "count": 2868,
+  "generated_at": "2026-09-29",
+  "count": 2882,
   "projects": [
     {
       "country": "UK",
@@ -14576,6 +14576,39 @@
       "due_date": "2026-09-27",
       "risk_level": "critical",
       "progress": 17
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19141",
+      "service_name": "BundesID 42",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-09-28",
+      "risk_level": "critical",
+      "progress": 20
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20708",
+      "service_name": "BundesID 9",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-28",
+      "risk_level": "critical",
+      "progress": 92
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12045",
+      "service_name": "HMRC Tax Digital 46",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "critical",
+      "progress": 54
     },
     {
       "country": "UK",
@@ -31549,6 +31582,127 @@
       "due_date": "2026-09-27",
       "risk_level": "high",
       "progress": 25
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13982",
+      "service_name": "HMRC Tax Digital 33",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 19
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18274",
+      "service_name": "Digital Health Record 25",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 86
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21011",
+      "service_name": "ELSTER Tax Portal 12",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 7
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18378",
+      "service_name": "AusweisApp2 29",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 62
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13342",
+      "service_name": "Local Council Services 43",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 49
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17603",
+      "service_name": "FranceConnect 4",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 60
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21862",
+      "service_name": "Digital Health Record 13",
+      "owner": "L. Smith",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14959",
+      "service_name": "Cadastre Numérique 10",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18844",
+      "service_name": "ELSTER Tax Portal 45",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 62
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18966",
+      "service_name": "Wohngeld Digital 17",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 98
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12920",
+      "service_name": "NHS Digital Records 21",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-09-28",
+      "risk_level": "high",
+      "progress": 19
     }
   ]
 }
