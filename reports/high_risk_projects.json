@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01",
-  "count": 2882,
+  "generated_at": "2026-10-02",
+  "count": 2892,
   "projects": [
     {
       "country": "UK",
@@ -14609,6 +14609,17 @@
       "due_date": "2026-09-28",
       "risk_level": "critical",
       "progress": 54
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18898",
+      "service_name": "BundesID 49",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-01",
+      "risk_level": "critical",
+      "progress": 61
     },
     {
       "country": "UK",
@@ -31703,6 +31714,105 @@
       "due_date": "2026-09-28",
       "risk_level": "high",
       "progress": 19
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10562",
+      "service_name": "Local Council Services 13",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20539",
+      "service_name": "ELSTER Tax Portal 40",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 98
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13397",
+      "service_name": "HMRC Tax Digital 48",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 63
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13047",
+      "service_name": "Police National Database 48",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21676",
+      "service_name": "BundesID 27",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 14
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16744",
+      "service_name": "FranceConnect 45",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 30
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16684",
+      "service_name": "Pole Emploi Portal 35",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 60
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16027",
+      "service_name": "MonCompteFormation 28",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11526",
+      "service_name": "Housing Benefit System 27",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-01",
+      "risk_level": "high",
+      "progress": 36
     }
   ]
 }
