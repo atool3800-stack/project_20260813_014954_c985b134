@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02",
-  "count": 2892,
+  "generated_at": "2026-10-03",
+  "count": 2901,
   "projects": [
     {
       "country": "UK",
@@ -14620,6 +14620,39 @@
       "due_date": "2026-10-01",
       "risk_level": "critical",
       "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17690",
+      "service_name": "Cadastre Numérique 41",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-02",
+      "risk_level": "critical",
+      "progress": 75
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11122",
+      "service_name": "NHS Digital Records 23",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-02",
+      "risk_level": "critical",
+      "progress": 91
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11979",
+      "service_name": "Police National Database 30",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-02",
+      "risk_level": "critical",
+      "progress": 15
     },
     {
       "country": "UK",
@@ -31813,6 +31846,72 @@
       "due_date": "2026-10-01",
       "risk_level": "high",
       "progress": 36
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13545",
+      "service_name": "Border Control System 46",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 6
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12112",
+      "service_name": "Housing Benefit System 13",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10647",
+      "service_name": "Housing Benefit System 48",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 68
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17216",
+      "service_name": "Sante.fr 17",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 63
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14412",
+      "service_name": "CAF Social Benefits 13",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12615",
+      "service_name": "Police National Database 16",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-02",
+      "risk_level": "high",
+      "progress": 17
     }
   ]
 }
