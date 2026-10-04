@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03",
-  "count": 2901,
+  "generated_at": "2026-10-04",
+  "count": 2906,
   "projects": [
     {
       "country": "UK",
@@ -14653,6 +14653,39 @@
       "due_date": "2026-10-02",
       "risk_level": "critical",
       "progress": 15
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13031",
+      "service_name": "Border Control System 32",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-03",
+      "risk_level": "critical",
+      "progress": 28
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19407",
+      "service_name": "Polizei Systeme 8",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-03",
+      "risk_level": "critical",
+      "progress": 69
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17305",
+      "service_name": "Pole Emploi Portal 6",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-03",
+      "risk_level": "critical",
+      "progress": 76
     },
     {
       "country": "UK",
@@ -31912,6 +31945,28 @@
       "due_date": "2026-10-02",
       "risk_level": "high",
       "progress": 17
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15334",
+      "service_name": "Pole Emploi Portal 35",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-03",
+      "risk_level": "high",
+      "progress": 51
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16988",
+      "service_name": "Cadastre Numérique 39",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-03",
+      "risk_level": "high",
+      "progress": 84
     }
   ]
 }
