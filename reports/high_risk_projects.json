@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04",
-  "count": 2906,
+  "generated_at": "2026-10-05",
+  "count": 2916,
   "projects": [
     {
       "country": "UK",
@@ -14686,6 +14686,39 @@
       "due_date": "2026-10-03",
       "risk_level": "critical",
       "progress": 76
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12505",
+      "service_name": "HMRC Tax Digital 6",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-04",
+      "risk_level": "critical",
+      "progress": 88
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18435",
+      "service_name": "Rentenversicherung Portal 36",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-04",
+      "risk_level": "critical",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17972",
+      "service_name": "Gendarmerie Nationale 23",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-04",
+      "risk_level": "critical",
+      "progress": 10
     },
     {
       "country": "UK",
@@ -31967,6 +32000,83 @@
       "due_date": "2026-10-03",
       "risk_level": "high",
       "progress": 84
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19160",
+      "service_name": "BundesID 11",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11003",
+      "service_name": "Housing Benefit System 4",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20366",
+      "service_name": "Kfz-Zulassung Online 17",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18043",
+      "service_name": "Kfz-Zulassung Online 44",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12013",
+      "service_name": "Border Control System 14",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 97
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20671",
+      "service_name": "Rentenversicherung Portal 22",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 50
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14453",
+      "service_name": "Cadastre Numérique 4",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 90
     }
   ]
 }
