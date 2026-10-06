@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05",
-  "count": 2916,
+  "generated_at": "2026-10-06",
+  "count": 2924,
   "projects": [
     {
       "country": "UK",
@@ -32075,6 +32075,94 @@
       "status": "completed",
       "priority": "medium",
       "due_date": "2026-10-04",
+      "risk_level": "high",
+      "progress": 90
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10763",
+      "service_name": "Universal Credit Portal 14",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 36
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14397",
+      "service_name": "MonCompteFormation 48",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12515",
+      "service_name": "GOV.UK Pay 16",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10947",
+      "service_name": "Police National Database 48",
+      "owner": "V. Rousseau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 39
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21168",
+      "service_name": "AusweisApp2 19",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13715",
+      "service_name": "GOV.UK Pay 16",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 3
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10926",
+      "service_name": "DVLA Online Services 27",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-05",
+      "risk_level": "high",
+      "progress": 0
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14940",
+      "service_name": "Cadastre Numérique 41",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-05",
       "risk_level": "high",
       "progress": 90
     }
