@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06",
-  "count": 2924,
+  "generated_at": "2026-10-07",
+  "count": 2928,
   "projects": [
     {
       "country": "UK",
@@ -32165,6 +32165,50 @@
       "due_date": "2026-10-05",
       "risk_level": "high",
       "progress": 90
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18439",
+      "service_name": "BA Portal 40",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-06",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20473",
+      "service_name": "Kfz-Zulassung Online 24",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-06",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15106",
+      "service_name": "CAF Social Benefits 7",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-06",
+      "risk_level": "high",
+      "progress": 17
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14017",
+      "service_name": "MonCompteFormation 18",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-06",
+      "risk_level": "high",
+      "progress": 57
     }
   ]
 }
