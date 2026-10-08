@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07",
-  "count": 2928,
+  "generated_at": "2026-10-08",
+  "count": 2938,
   "projects": [
     {
       "country": "UK",
@@ -14719,6 +14719,28 @@
       "due_date": "2026-10-04",
       "risk_level": "critical",
       "progress": 10
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12021",
+      "service_name": "Police National Database 22",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-07",
+      "risk_level": "critical",
+      "progress": 93
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13273",
+      "service_name": "Local Council Services 24",
+      "owner": "A. Patel",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "critical",
+      "progress": 30
     },
     {
       "country": "UK",
@@ -32209,6 +32231,94 @@
       "due_date": "2026-10-06",
       "risk_level": "high",
       "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17243",
+      "service_name": "Cadastre Numérique 44",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 7
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15209",
+      "service_name": "FranceConnect 10",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18019",
+      "service_name": "BundesID 20",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17295",
+      "service_name": "FranceConnect 46",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16199",
+      "service_name": "FranceConnect 50",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21690",
+      "service_name": "AusweisApp2 41",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12329",
+      "service_name": "Housing Benefit System 30",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 41
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13000",
+      "service_name": "Passport Office 1",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-07",
+      "risk_level": "high",
+      "progress": 69
     }
   ]
 }
