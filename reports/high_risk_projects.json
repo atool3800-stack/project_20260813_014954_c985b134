@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08",
-  "count": 2938,
+  "generated_at": "2026-10-09",
+  "count": 2941,
   "projects": [
     {
       "country": "UK",
@@ -14741,6 +14741,17 @@
       "due_date": "2026-10-07",
       "risk_level": "critical",
       "progress": 30
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13672",
+      "service_name": "Border Control System 23",
+      "owner": "E. Johnson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-08",
+      "risk_level": "critical",
+      "progress": 3
     },
     {
       "country": "UK",
@@ -32319,6 +32330,28 @@
       "due_date": "2026-10-07",
       "risk_level": "high",
       "progress": 69
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21803",
+      "service_name": "Wohngeld Digital 4",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-08",
+      "risk_level": "high",
+      "progress": 90
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12486",
+      "service_name": "Border Control System 37",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-08",
+      "risk_level": "high",
+      "progress": 28
     }
   ]
 }
