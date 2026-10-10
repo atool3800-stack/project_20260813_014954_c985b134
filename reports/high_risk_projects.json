@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09",
-  "count": 2941,
+  "generated_at": "2026-10-10",
+  "count": 2952,
   "projects": [
     {
       "country": "UK",
@@ -14752,6 +14752,28 @@
       "due_date": "2026-10-08",
       "risk_level": "critical",
       "progress": 3
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11671",
+      "service_name": "Border Control System 22",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "critical",
+      "progress": 12
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20348",
+      "service_name": "Polizei Systeme 49",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-09",
+      "risk_level": "critical",
+      "progress": 78
     },
     {
       "country": "UK",
@@ -32352,6 +32374,105 @@
       "due_date": "2026-10-08",
       "risk_level": "high",
       "progress": 28
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13032",
+      "service_name": "DVLA Online Services 33",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10999",
+      "service_name": "Local Council Services 50",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18278",
+      "service_name": "Digital Health Record 29",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16271",
+      "service_name": "CAF Social Benefits 22",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 95
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10838",
+      "service_name": "Local Council Services 39",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 50
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13105",
+      "service_name": "Border Control System 6",
+      "owner": "A. Patel",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 18
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10558",
+      "service_name": "GOV.UK Pay 9",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12282",
+      "service_name": "Police National Database 33",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 45
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12692",
+      "service_name": "Police National Database 43",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-09",
+      "risk_level": "high",
+      "progress": 60
     }
   ]
 }
