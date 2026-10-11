@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10",
-  "count": 2952,
+  "generated_at": "2026-10-11",
+  "count": 2962,
   "projects": [
     {
       "country": "UK",
@@ -32473,6 +32473,116 @@
       "due_date": "2026-10-09",
       "risk_level": "high",
       "progress": 60
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12238",
+      "service_name": "Local Council Services 39",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 32
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21946",
+      "service_name": "Polizei Systeme 47",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 78
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11657",
+      "service_name": "Police National Database 8",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13829",
+      "service_name": "Border Control System 30",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 89
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17351",
+      "service_name": "CAF Social Benefits 2",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 10
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15614",
+      "service_name": "MonCompteFormation 15",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 77
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20782",
+      "service_name": "Polizei Systeme 33",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16722",
+      "service_name": "ANTS Driving Licence 23",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18771",
+      "service_name": "BundesID 22",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 53
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19054",
+      "service_name": "Wohngeld Digital 5",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-10",
+      "risk_level": "high",
+      "progress": 63
     }
   ]
 }
