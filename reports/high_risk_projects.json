@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12",
-  "count": 2968,
+  "generated_at": "2026-10-13",
+  "count": 2980,
   "projects": [
     {
       "country": "UK",
@@ -14785,6 +14785,28 @@
       "due_date": "2026-10-11",
       "risk_level": "critical",
       "progress": 100
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12701",
+      "service_name": "Police National Database 2",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-12",
+      "risk_level": "critical",
+      "progress": 9
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12141",
+      "service_name": "Police National Database 42",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "critical",
+      "progress": 87
     },
     {
       "country": "UK",
@@ -32649,6 +32671,116 @@
       "due_date": "2026-10-11",
       "risk_level": "high",
       "progress": 41
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20544",
+      "service_name": "ELSTER Tax Portal 45",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 27
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18287",
+      "service_name": "BundesID 38",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15831",
+      "service_name": "Ameli Health Portal 32",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19098",
+      "service_name": "BA Portal 49",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15836",
+      "service_name": "MonCompteFormation 37",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 99
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11649",
+      "service_name": "Universal Credit Portal 50",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17127",
+      "service_name": "Cadastre Numérique 28",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 97
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13859",
+      "service_name": "HMRC Tax Digital 10",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 86
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18952",
+      "service_name": "AusweisApp2 3",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 78
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14223",
+      "service_name": "CAF Social Benefits 24",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-12",
+      "risk_level": "high",
+      "progress": 91
     }
   ]
 }
