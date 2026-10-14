@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13",
-  "count": 2980,
+  "generated_at": "2026-10-14",
+  "count": 2985,
   "projects": [
     {
       "country": "UK",
@@ -14807,6 +14807,17 @@
       "due_date": "2026-10-12",
       "risk_level": "critical",
       "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16462",
+      "service_name": "impots.gouv.fr 13",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-13",
+      "risk_level": "critical",
+      "progress": 94
     },
     {
       "country": "UK",
@@ -32781,6 +32792,50 @@
       "due_date": "2026-10-12",
       "risk_level": "high",
       "progress": 91
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21943",
+      "service_name": "AusweisApp2 44",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-13",
+      "risk_level": "high",
+      "progress": 42
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11479",
+      "service_name": "GOV.UK Pay 30",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-13",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14924",
+      "service_name": "MonCompteFormation 25",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-13",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15511",
+      "service_name": "CAF Social Benefits 12",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-13",
+      "risk_level": "high",
+      "progress": 79
     }
   ]
 }
