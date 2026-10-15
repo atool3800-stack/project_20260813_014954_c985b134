@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14",
-  "count": 2985,
+  "generated_at": "2026-10-15",
+  "count": 2998,
   "projects": [
     {
       "country": "UK",
@@ -14818,6 +14818,39 @@
       "due_date": "2026-10-13",
       "risk_level": "critical",
       "progress": 94
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18794",
+      "service_name": "Polizei Systeme 45",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-14",
+      "risk_level": "critical",
+      "progress": 46
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17500",
+      "service_name": "impots.gouv.fr 1",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "critical",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16336",
+      "service_name": "impots.gouv.fr 37",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "critical",
+      "progress": 25
     },
     {
       "country": "UK",
@@ -32836,6 +32869,116 @@
       "due_date": "2026-10-13",
       "risk_level": "high",
       "progress": 79
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16443",
+      "service_name": "Pole Emploi Portal 44",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10970",
+      "service_name": "Universal Credit Portal 21",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21191",
+      "service_name": "Digital Health Record 42",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18995",
+      "service_name": "BA Portal 46",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11938",
+      "service_name": "DVLA Online Services 39",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 91
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16459",
+      "service_name": "MonCompteFormation 10",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 19
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21831",
+      "service_name": "Zoll Digital Services 32",
+      "owner": "A. Patel",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16785",
+      "service_name": "CAF Social Benefits 36",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 91
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15275",
+      "service_name": "impots.gouv.fr 26",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21091",
+      "service_name": "Kfz-Zulassung Online 42",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-14",
+      "risk_level": "high",
+      "progress": 6
     }
   ]
 }
