@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15",
-  "count": 2998,
+  "generated_at": "2026-10-16",
+  "count": 3005,
   "projects": [
     {
       "country": "UK",
@@ -14851,6 +14851,28 @@
       "due_date": "2026-10-14",
       "risk_level": "critical",
       "progress": 25
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11820",
+      "service_name": "DVLA Online Services 21",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-15",
+      "risk_level": "critical",
+      "progress": 22
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12977",
+      "service_name": "DVLA Online Services 28",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-15",
+      "risk_level": "critical",
+      "progress": 14
     },
     {
       "country": "UK",
@@ -32979,6 +33001,61 @@
       "due_date": "2026-10-14",
       "risk_level": "high",
       "progress": 6
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14267",
+      "service_name": "Pole Emploi Portal 18",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-15",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21149",
+      "service_name": "Kfz-Zulassung Online 50",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-15",
+      "risk_level": "high",
+      "progress": 69
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20660",
+      "service_name": "BA Portal 11",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-15",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18599",
+      "service_name": "Wohngeld Digital 50",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-15",
+      "risk_level": "high",
+      "progress": 95
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20843",
+      "service_name": "Digital Health Record 44",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-15",
+      "risk_level": "high",
+      "progress": 62
     }
   ]
 }
