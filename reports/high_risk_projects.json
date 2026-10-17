@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16",
-  "count": 3005,
+  "generated_at": "2026-10-17",
+  "count": 3014,
   "projects": [
     {
       "country": "UK",
@@ -14873,6 +14873,17 @@
       "due_date": "2026-10-15",
       "risk_level": "critical",
       "progress": 14
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13183",
+      "service_name": "Border Control System 34",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-16",
+      "risk_level": "critical",
+      "progress": 19
     },
     {
       "country": "UK",
@@ -33056,6 +33067,94 @@
       "due_date": "2026-10-15",
       "risk_level": "high",
       "progress": 62
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10561",
+      "service_name": "NHS Digital Records 12",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 86
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15192",
+      "service_name": "impots.gouv.fr 43",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 1
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10283",
+      "service_name": "Border Control System 34",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 94
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17964",
+      "service_name": "Ameli Health Portal 15",
+      "owner": "L. Smith",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 60
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16253",
+      "service_name": "Sante.fr 4",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16043",
+      "service_name": "Ameli Health Portal 44",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14032",
+      "service_name": "Cadastre Numérique 33",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12840",
+      "service_name": "Police National Database 41",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-16",
+      "risk_level": "high",
+      "progress": 15
     }
   ]
 }
