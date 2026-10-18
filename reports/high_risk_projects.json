@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17",
-  "count": 3014,
+  "generated_at": "2026-10-18",
+  "count": 3025,
   "projects": [
     {
       "country": "UK",
@@ -14884,6 +14884,39 @@
       "due_date": "2026-10-16",
       "risk_level": "critical",
       "progress": 19
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16575",
+      "service_name": "Ameli Health Portal 26",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-17",
+      "risk_level": "critical",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11655",
+      "service_name": "Universal Credit Portal 6",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-17",
+      "risk_level": "critical",
+      "progress": 80
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16519",
+      "service_name": "Cadastre Numérique 20",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-17",
+      "risk_level": "critical",
+      "progress": 48
     },
     {
       "country": "UK",
@@ -33155,6 +33188,94 @@
       "due_date": "2026-10-16",
       "risk_level": "high",
       "progress": 15
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21378",
+      "service_name": "Rentenversicherung Portal 29",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 84
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21636",
+      "service_name": "Zoll Digital Services 37",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 68
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21623",
+      "service_name": "ELSTER Tax Portal 24",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11936",
+      "service_name": "Local Council Services 37",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 85
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14249",
+      "service_name": "Cadastre Numérique 50",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14756",
+      "service_name": "FranceConnect 7",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15129",
+      "service_name": "FranceConnect 30",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 9
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12394",
+      "service_name": "Passport Office 45",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-17",
+      "risk_level": "high",
+      "progress": 31
     }
   ]
 }
