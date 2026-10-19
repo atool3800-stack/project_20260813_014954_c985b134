@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18",
-  "count": 3025,
+  "generated_at": "2026-10-19",
+  "count": 3030,
   "projects": [
     {
       "country": "UK",
@@ -33276,6 +33276,61 @@
       "due_date": "2026-10-17",
       "risk_level": "high",
       "progress": 31
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13649",
+      "service_name": "HMRC Tax Digital 50",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-18",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12353",
+      "service_name": "GOV.UK Pay 4",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-18",
+      "risk_level": "high",
+      "progress": 30
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20050",
+      "service_name": "Digital Health Record 1",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-18",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12764",
+      "service_name": "Passport Office 15",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-18",
+      "risk_level": "high",
+      "progress": 69
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17976",
+      "service_name": "Sante.fr 27",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-18",
+      "risk_level": "high",
+      "progress": 0
     }
   ]
 }
