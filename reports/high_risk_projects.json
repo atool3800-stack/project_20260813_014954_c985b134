@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19",
-  "count": 3030,
+  "generated_at": "2026-10-20",
+  "count": 3035,
   "projects": [
     {
       "country": "UK",
@@ -14917,6 +14917,17 @@
       "due_date": "2026-10-17",
       "risk_level": "critical",
       "progress": 48
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15670",
+      "service_name": "impots.gouv.fr 21",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-19",
+      "risk_level": "critical",
+      "progress": 90
     },
     {
       "country": "UK",
@@ -33331,6 +33342,50 @@
       "due_date": "2026-10-18",
       "risk_level": "high",
       "progress": 0
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17654",
+      "service_name": "impots.gouv.fr 5",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-19",
+      "risk_level": "high",
+      "progress": 71
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21792",
+      "service_name": "Rentenversicherung Portal 43",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-19",
+      "risk_level": "high",
+      "progress": 79
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12325",
+      "service_name": "DVLA Online Services 26",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-19",
+      "risk_level": "high",
+      "progress": 67
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20690",
+      "service_name": "AusweisApp2 41",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-19",
+      "risk_level": "high",
+      "progress": 55
     }
   ]
 }
