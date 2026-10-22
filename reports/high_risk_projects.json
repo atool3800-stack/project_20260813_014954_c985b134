@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21",
-  "count": 3056,
+  "generated_at": "2026-10-22",
+  "count": 3065,
   "projects": [
     {
       "country": "UK",
@@ -15005,6 +15005,61 @@
       "due_date": "2026-10-20",
       "risk_level": "critical",
       "progress": 36
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14013",
+      "service_name": "CAF Social Benefits 14",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-21",
+      "risk_level": "critical",
+      "progress": 73
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19030",
+      "service_name": "Kfz-Zulassung Online 31",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-21",
+      "risk_level": "critical",
+      "progress": 64
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13184",
+      "service_name": "GOV.UK Pay 35",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-21",
+      "risk_level": "critical",
+      "progress": 32
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15645",
+      "service_name": "ANTS Driving Licence 46",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-21",
+      "risk_level": "critical",
+      "progress": 70
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20029",
+      "service_name": "Zoll Digital Services 30",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-21",
+      "risk_level": "critical",
+      "progress": 91
     },
     {
       "country": "UK",
@@ -33617,6 +33672,50 @@
       "due_date": "2026-10-20",
       "risk_level": "high",
       "progress": 94
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17421",
+      "service_name": "Pole Emploi Portal 22",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-21",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18864",
+      "service_name": "BA Portal 15",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-21",
+      "risk_level": "high",
+      "progress": 19
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19325",
+      "service_name": "ELSTER Tax Portal 26",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-21",
+      "risk_level": "high",
+      "progress": 20
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18811",
+      "service_name": "Wohngeld Digital 12",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-21",
+      "risk_level": "high",
+      "progress": 32
     }
   ]
 }
