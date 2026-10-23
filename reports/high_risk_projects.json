@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22",
-  "count": 3065,
+  "generated_at": "2026-10-23",
+  "count": 3074,
   "projects": [
     {
       "country": "UK",
@@ -15060,6 +15060,17 @@
       "due_date": "2026-10-21",
       "risk_level": "critical",
       "progress": 91
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20561",
+      "service_name": "Wohngeld Digital 12",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-22",
+      "risk_level": "critical",
+      "progress": 11
     },
     {
       "country": "UK",
@@ -33716,6 +33727,94 @@
       "due_date": "2026-10-21",
       "risk_level": "high",
       "progress": 32
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20682",
+      "service_name": "Zoll Digital Services 33",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 96
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18480",
+      "service_name": "BA Portal 31",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18292",
+      "service_name": "Zoll Digital Services 43",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 99
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13330",
+      "service_name": "NHS Digital Records 31",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 1
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20201",
+      "service_name": "AusweisApp2 2",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "JP",
+      "service_id": "JP-90014",
+      "service_name": "Public Records System 42",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 30
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11731",
+      "service_name": "Housing Benefit System 32",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 26
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10142",
+      "service_name": "Passport Office 43",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-22",
+      "risk_level": "high",
+      "progress": 21
     }
   ]
 }
