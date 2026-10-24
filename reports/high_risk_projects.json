@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23",
-  "count": 3074,
+  "generated_at": "2026-10-24",
+  "count": 3082,
   "projects": [
     {
       "country": "UK",
@@ -15071,6 +15071,17 @@
       "due_date": "2026-10-22",
       "risk_level": "critical",
       "progress": 11
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13485",
+      "service_name": "Universal Credit Portal 36",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-23",
+      "risk_level": "critical",
+      "progress": 68
     },
     {
       "country": "UK",
@@ -33815,6 +33826,83 @@
       "due_date": "2026-10-22",
       "risk_level": "high",
       "progress": 21
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15113",
+      "service_name": "Gendarmerie Nationale 14",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20992",
+      "service_name": "Zoll Digital Services 43",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12831",
+      "service_name": "Universal Credit Portal 32",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 98
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10978",
+      "service_name": "DVLA Online Services 29",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 67
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13480",
+      "service_name": "Housing Benefit System 31",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 86
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12759",
+      "service_name": "Housing Benefit System 10",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 28
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17704",
+      "service_name": "Gendarmerie Nationale 5",
+      "owner": "V. Rousseau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-23",
+      "risk_level": "high",
+      "progress": 31
     }
   ]
 }
