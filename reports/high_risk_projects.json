@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24",
-  "count": 3082,
+  "generated_at": "2026-10-25",
+  "count": 3086,
   "projects": [
     {
       "country": "UK",
@@ -15082,6 +15082,28 @@
       "due_date": "2026-10-23",
       "risk_level": "critical",
       "progress": 68
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18365",
+      "service_name": "Zoll Digital Services 16",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-24",
+      "risk_level": "critical",
+      "progress": 26
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21743",
+      "service_name": "ELSTER Tax Portal 44",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-24",
+      "risk_level": "critical",
+      "progress": 42
     },
     {
       "country": "UK",
@@ -33903,6 +33925,28 @@
       "due_date": "2026-10-23",
       "risk_level": "high",
       "progress": 31
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10232",
+      "service_name": "Passport Office 33",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-24",
+      "risk_level": "high",
+      "progress": 17
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16721",
+      "service_name": "impots.gouv.fr 22",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-24",
+      "risk_level": "high",
+      "progress": 30
     }
   ]
 }
