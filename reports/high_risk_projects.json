@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25",
-  "count": 3086,
+  "generated_at": "2026-10-26",
+  "count": 3095,
   "projects": [
     {
       "country": "UK",
@@ -15104,6 +15104,39 @@
       "due_date": "2026-10-24",
       "risk_level": "critical",
       "progress": 42
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16594",
+      "service_name": "Pole Emploi Portal 45",
+      "owner": "M. Weber",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-25",
+      "risk_level": "critical",
+      "progress": 5
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17509",
+      "service_name": "Gendarmerie Nationale 10",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "critical",
+      "progress": 60
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15747",
+      "service_name": "ANTS Driving Licence 48",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-25",
+      "risk_level": "critical",
+      "progress": 30
     },
     {
       "country": "UK",
@@ -33947,6 +33980,72 @@
       "due_date": "2026-10-24",
       "risk_level": "high",
       "progress": 30
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17329",
+      "service_name": "Sante.fr 30",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 47
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12958",
+      "service_name": "HMRC Tax Digital 9",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 14
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20937",
+      "service_name": "Rentenversicherung Portal 38",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17533",
+      "service_name": "Sante.fr 34",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 61
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10965",
+      "service_name": "HMRC Tax Digital 16",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15416",
+      "service_name": "Cadastre Numérique 17",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-25",
+      "risk_level": "high",
+      "progress": 26
     }
   ]
 }
