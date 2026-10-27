@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26",
-  "count": 3095,
+  "generated_at": "2026-10-27",
+  "count": 3111,
   "projects": [
     {
       "country": "UK",
@@ -15137,6 +15137,50 @@
       "due_date": "2026-10-25",
       "risk_level": "critical",
       "progress": 30
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10521",
+      "service_name": "GOV.UK Pay 22",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "critical",
+      "progress": 91
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14015",
+      "service_name": "Pole Emploi Portal 16",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-26",
+      "risk_level": "critical",
+      "progress": 62
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19297",
+      "service_name": "Wohngeld Digital 48",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-26",
+      "risk_level": "critical",
+      "progress": 45
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14085",
+      "service_name": "FranceConnect 36",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "critical",
+      "progress": 11
     },
     {
       "country": "UK",
@@ -34046,6 +34090,138 @@
       "due_date": "2026-10-25",
       "risk_level": "high",
       "progress": 26
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16009",
+      "service_name": "Pole Emploi Portal 10",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 28
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12614",
+      "service_name": "Police National Database 15",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16053",
+      "service_name": "Ameli Health Portal 4",
+      "owner": "D. Neumann",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 22
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19563",
+      "service_name": "Kfz-Zulassung Online 14",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 46
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14989",
+      "service_name": "Gendarmerie Nationale 40",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17307",
+      "service_name": "MonCompteFormation 8",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16593",
+      "service_name": "Cadastre Numérique 44",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20977",
+      "service_name": "Rentenversicherung Portal 28",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 26
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20189",
+      "service_name": "Polizei Systeme 40",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15719",
+      "service_name": "Pole Emploi Portal 20",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 88
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12218",
+      "service_name": "Border Control System 19",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 17
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18386",
+      "service_name": "Polizei Systeme 37",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-26",
+      "risk_level": "high",
+      "progress": 39
     }
   ]
 }
