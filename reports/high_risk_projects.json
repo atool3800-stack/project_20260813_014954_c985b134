@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27",
-  "count": 3111,
+  "generated_at": "2026-10-28",
+  "count": 3117,
   "projects": [
     {
       "country": "UK",
@@ -15181,6 +15181,17 @@
       "due_date": "2026-10-26",
       "risk_level": "critical",
       "progress": 11
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10761",
+      "service_name": "NHS Digital Records 12",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-27",
+      "risk_level": "critical",
+      "progress": 56
     },
     {
       "country": "UK",
@@ -34222,6 +34233,61 @@
       "due_date": "2026-10-26",
       "risk_level": "high",
       "progress": 39
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18182",
+      "service_name": "Polizei Systeme 33",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-10-27",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14966",
+      "service_name": "Cadastre Numérique 17",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-27",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10750",
+      "service_name": "GOV.UK Pay 1",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-27",
+      "risk_level": "high",
+      "progress": 76
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12091",
+      "service_name": "Border Control System 42",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-10-27",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16216",
+      "service_name": "CAF Social Benefits 17",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-10-27",
+      "risk_level": "high",
+      "progress": 36
     }
   ]
 }
