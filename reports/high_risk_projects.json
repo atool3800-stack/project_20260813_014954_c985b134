@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28",
-  "count": 3117,
+  "generated_at": "2026-10-29",
+  "count": 3123,
   "projects": [
     {
       "country": "UK",
@@ -34288,6 +34288,72 @@
       "due_date": "2026-10-27",
       "risk_level": "high",
       "progress": 36
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14488",
+      "service_name": "ANTS Driving Licence 39",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14078",
+      "service_name": "impots.gouv.fr 29",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16753",
+      "service_name": "Gendarmerie Nationale 4",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 66
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18334",
+      "service_name": "Kfz-Zulassung Online 35",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17710",
+      "service_name": "Ameli Health Portal 11",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11329",
+      "service_name": "Police National Database 30",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-10-28",
+      "risk_level": "high",
+      "progress": 90
     }
   ]
 }
