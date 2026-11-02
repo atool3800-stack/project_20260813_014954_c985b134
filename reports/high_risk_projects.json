@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01",
-  "count": 3123,
+  "generated_at": "2026-11-02",
+  "count": 3132,
   "projects": [
     {
       "country": "UK",
@@ -15192,6 +15192,50 @@
       "due_date": "2026-10-27",
       "risk_level": "critical",
       "progress": 56
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11002",
+      "service_name": "Universal Credit Portal 3",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-01",
+      "risk_level": "critical",
+      "progress": 48
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14629",
+      "service_name": "Gendarmerie Nationale 30",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-01",
+      "risk_level": "critical",
+      "progress": 46
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17202",
+      "service_name": "Sante.fr 3",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-01",
+      "risk_level": "critical",
+      "progress": 47
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15716",
+      "service_name": "Gendarmerie Nationale 17",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-01",
+      "risk_level": "critical",
+      "progress": 81
     },
     {
       "country": "UK",
@@ -34354,6 +34398,61 @@
       "due_date": "2026-10-28",
       "risk_level": "high",
       "progress": 90
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14391",
+      "service_name": "ANTS Driving Licence 42",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-01",
+      "risk_level": "high",
+      "progress": 93
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14227",
+      "service_name": "Cadastre Numérique 28",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-01",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18606",
+      "service_name": "Digital Health Record 7",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-01",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12745",
+      "service_name": "Passport Office 46",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-01",
+      "risk_level": "high",
+      "progress": 85
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10985",
+      "service_name": "Universal Credit Portal 36",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-01",
+      "risk_level": "high",
+      "progress": 100
     }
   ]
 }
