@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05",
-  "count": 3150,
+  "generated_at": "2026-11-06",
+  "count": 3157,
   "projects": [
     {
       "country": "UK",
@@ -15302,6 +15302,17 @@
       "due_date": "2026-11-04",
       "risk_level": "critical",
       "progress": 21
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14042",
+      "service_name": "ANTS Driving Licence 43",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-05",
+      "risk_level": "critical",
+      "progress": 55
     },
     {
       "country": "UK",
@@ -34651,6 +34662,72 @@
       "due_date": "2026-11-04",
       "risk_level": "high",
       "progress": 37
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18391",
+      "service_name": "Kfz-Zulassung Online 42",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17960",
+      "service_name": "impots.gouv.fr 11",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 67
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18071",
+      "service_name": "Zoll Digital Services 22",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 78
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10209",
+      "service_name": "Housing Benefit System 10",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 39
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16479",
+      "service_name": "MonCompteFormation 30",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 35
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13761",
+      "service_name": "NHS Digital Records 12",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-05",
+      "risk_level": "high",
+      "progress": 100
     }
   ]
 }
