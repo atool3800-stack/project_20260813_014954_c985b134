@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06",
-  "count": 3157,
+  "generated_at": "2026-11-07",
+  "count": 3160,
   "projects": [
     {
       "country": "UK",
@@ -15313,6 +15313,39 @@
       "due_date": "2026-11-05",
       "risk_level": "critical",
       "progress": 55
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18473",
+      "service_name": "Polizei Systeme 24",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-11-06",
+      "risk_level": "critical",
+      "progress": 21
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20520",
+      "service_name": "Polizei Systeme 21",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-06",
+      "risk_level": "critical",
+      "progress": 94
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13394",
+      "service_name": "NHS Digital Records 45",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-06",
+      "risk_level": "critical",
+      "progress": 18
     },
     {
       "country": "UK",
