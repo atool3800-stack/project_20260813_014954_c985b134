@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07",
-  "count": 3160,
+  "generated_at": "2026-11-08",
+  "count": 3171,
   "projects": [
     {
       "country": "UK",
@@ -15346,6 +15346,28 @@
       "due_date": "2026-11-06",
       "risk_level": "critical",
       "progress": 18
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17152",
+      "service_name": "FranceConnect 3",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-07",
+      "risk_level": "critical",
+      "progress": 53
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12038",
+      "service_name": "HMRC Tax Digital 39",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-07",
+      "risk_level": "critical",
+      "progress": 41
     },
     {
       "country": "UK",
@@ -34761,6 +34783,105 @@
       "due_date": "2026-11-05",
       "risk_level": "high",
       "progress": 100
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11199",
+      "service_name": "NHS Digital Records 50",
+      "owner": "E. Johnson",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 43
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12315",
+      "service_name": "Border Control System 16",
+      "owner": "N. Moreau",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 18
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18741",
+      "service_name": "Wohngeld Digital 42",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 5
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16514",
+      "service_name": "impots.gouv.fr 15",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 98
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11027",
+      "service_name": "Border Control System 28",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15680",
+      "service_name": "impots.gouv.fr 31",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20024",
+      "service_name": "Polizei Systeme 25",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 10
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16830",
+      "service_name": "Gendarmerie Nationale 31",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 31
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12107",
+      "service_name": "Housing Benefit System 8",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-07",
+      "risk_level": "high",
+      "progress": 38
     }
   ]
 }
