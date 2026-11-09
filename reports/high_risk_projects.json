@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08",
-  "count": 3171,
+  "generated_at": "2026-11-09",
+  "count": 3174,
   "projects": [
     {
       "country": "UK",
@@ -15368,6 +15368,17 @@
       "due_date": "2026-11-07",
       "risk_level": "critical",
       "progress": 41
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17694",
+      "service_name": "impots.gouv.fr 45",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-08",
+      "risk_level": "critical",
+      "progress": 40
     },
     {
       "country": "UK",
@@ -34882,6 +34893,28 @@
       "due_date": "2026-11-07",
       "risk_level": "high",
       "progress": 38
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21887",
+      "service_name": "BA Portal 38",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-08",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17917",
+      "service_name": "CAF Social Benefits 18",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-11-08",
+      "risk_level": "high",
+      "progress": 89
     }
   ]
 }
