@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09",
-  "count": 3174,
+  "generated_at": "2026-11-10",
+  "count": 3179,
   "projects": [
     {
       "country": "UK",
@@ -15379,6 +15379,17 @@
       "due_date": "2026-11-08",
       "risk_level": "critical",
       "progress": 40
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19265",
+      "service_name": "Kfz-Zulassung Online 16",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-09",
+      "risk_level": "critical",
+      "progress": 97
     },
     {
       "country": "UK",
@@ -34915,6 +34926,50 @@
       "due_date": "2026-11-08",
       "risk_level": "high",
       "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20810",
+      "service_name": "BA Portal 11",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-09",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17977",
+      "service_name": "impots.gouv.fr 28",
+      "owner": "T. Becker",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-09",
+      "risk_level": "high",
+      "progress": 14
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20038",
+      "service_name": "Zoll Digital Services 39",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-09",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10356",
+      "service_name": "Housing Benefit System 7",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-09",
+      "risk_level": "high",
+      "progress": 57
     }
   ]
 }
