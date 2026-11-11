@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10",
-  "count": 3179,
+  "generated_at": "2026-11-11",
+  "count": 3194,
   "projects": [
     {
       "country": "UK",
@@ -15390,6 +15390,28 @@
       "due_date": "2026-11-09",
       "risk_level": "critical",
       "progress": 97
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13275",
+      "service_name": "NHS Digital Records 26",
+      "owner": "M. Weber",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-10",
+      "risk_level": "critical",
+      "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21328",
+      "service_name": "Rentenversicherung Portal 29",
+      "owner": "P. Laurent",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "critical",
+      "progress": 13
     },
     {
       "country": "UK",
@@ -34970,6 +34992,149 @@
       "due_date": "2026-11-09",
       "risk_level": "high",
       "progress": 57
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21474",
+      "service_name": "BA Portal 25",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10020",
+      "service_name": "Police National Database 21",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19718",
+      "service_name": "Digital Health Record 19",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21098",
+      "service_name": "ELSTER Tax Portal 49",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 32
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18463",
+      "service_name": "BA Portal 14",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 58
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20570",
+      "service_name": "Digital Health Record 21",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 59
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17842",
+      "service_name": "Ameli Health Portal 43",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 13
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12416",
+      "service_name": "Border Control System 17",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18163",
+      "service_name": "Polizei Systeme 14",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 70
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16641",
+      "service_name": "ANTS Driving Licence 42",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 53
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13559",
+      "service_name": "Police National Database 10",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12610",
+      "service_name": "NHS Digital Records 11",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 48
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14516",
+      "service_name": "Sante.fr 17",
+      "owner": "P. Laurent",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-10",
+      "risk_level": "high",
+      "progress": 27
     }
   ]
 }
