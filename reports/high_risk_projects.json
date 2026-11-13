@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12",
-  "count": 3206,
+  "generated_at": "2026-11-13",
+  "count": 3212,
   "projects": [
     {
       "country": "UK",
@@ -15445,6 +15445,39 @@
       "due_date": "2026-11-11",
       "risk_level": "critical",
       "progress": 75
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20451",
+      "service_name": "AusweisApp2 2",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-12",
+      "risk_level": "critical",
+      "progress": 95
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13688",
+      "service_name": "Border Control System 39",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-12",
+      "risk_level": "critical",
+      "progress": 71
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19284",
+      "service_name": "Kfz-Zulassung Online 35",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-12",
+      "risk_level": "critical",
+      "progress": 51
     },
     {
       "country": "UK",
@@ -35267,6 +35300,39 @@
       "due_date": "2026-11-11",
       "risk_level": "high",
       "progress": 23
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10768",
+      "service_name": "NHS Digital Records 19",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-12",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13754",
+      "service_name": "Housing Benefit System 5",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-12",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18884",
+      "service_name": "Zoll Digital Services 35",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-12",
+      "risk_level": "high",
+      "progress": 28
     }
   ]
 }
