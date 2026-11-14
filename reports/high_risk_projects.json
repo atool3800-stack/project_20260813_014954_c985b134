@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13",
-  "count": 3212,
+  "generated_at": "2026-11-14",
+  "count": 3220,
   "projects": [
     {
       "country": "UK",
@@ -15478,6 +15478,28 @@
       "due_date": "2026-11-12",
       "risk_level": "critical",
       "progress": 51
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10376",
+      "service_name": "Housing Benefit System 27",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-13",
+      "risk_level": "critical",
+      "progress": 42
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19888",
+      "service_name": "Polizei Systeme 39",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-13",
+      "risk_level": "critical",
+      "progress": 34
     },
     {
       "country": "UK",
@@ -35333,6 +35355,72 @@
       "due_date": "2026-11-12",
       "risk_level": "high",
       "progress": 28
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17793",
+      "service_name": "FranceConnect 44",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 46
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12690",
+      "service_name": "Border Control System 41",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 38
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10326",
+      "service_name": "Local Council Services 27",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 40
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18410",
+      "service_name": "Rentenversicherung Portal 11",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10707",
+      "service_name": "Border Control System 8",
+      "owner": "E. Johnson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 28
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19172",
+      "service_name": "Polizei Systeme 23",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-13",
+      "risk_level": "high",
+      "progress": 35
     }
   ]
 }
