@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14",
-  "count": 3220,
+  "generated_at": "2026-11-15",
+  "count": 3226,
   "projects": [
     {
       "country": "UK",
@@ -15500,6 +15500,17 @@
       "due_date": "2026-11-13",
       "risk_level": "critical",
       "progress": 34
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15652",
+      "service_name": "impots.gouv.fr 3",
+      "owner": "L. Smith",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-14",
+      "risk_level": "critical",
+      "progress": 49
     },
     {
       "country": "UK",
@@ -35421,6 +35432,61 @@
       "due_date": "2026-11-13",
       "risk_level": "high",
       "progress": 35
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19803",
+      "service_name": "BA Portal 4",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-14",
+      "risk_level": "high",
+      "progress": 6
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15396",
+      "service_name": "CAF Social Benefits 47",
+      "owner": "V. Rousseau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-14",
+      "risk_level": "high",
+      "progress": 67
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17289",
+      "service_name": "Pole Emploi Portal 40",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-14",
+      "risk_level": "high",
+      "progress": 85
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21275",
+      "service_name": "Rentenversicherung Portal 26",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-14",
+      "risk_level": "high",
+      "progress": 70
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13867",
+      "service_name": "Housing Benefit System 18",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-14",
+      "risk_level": "high",
+      "progress": 78
     }
   ]
 }
