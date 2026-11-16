@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15",
-  "count": 3226,
+  "generated_at": "2026-11-16",
+  "count": 3234,
   "projects": [
     {
       "country": "UK",
@@ -15511,6 +15511,28 @@
       "due_date": "2026-11-14",
       "risk_level": "critical",
       "progress": 49
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10572",
+      "service_name": "HMRC Tax Digital 23",
+      "owner": "D. Neumann",
+      "status": "delayed",
+      "priority": "high",
+      "due_date": "2026-11-15",
+      "risk_level": "critical",
+      "progress": 46
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13729",
+      "service_name": "Housing Benefit System 30",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-15",
+      "risk_level": "critical",
+      "progress": 54
     },
     {
       "country": "UK",
@@ -35487,6 +35509,72 @@
       "due_date": "2026-11-14",
       "risk_level": "high",
       "progress": 78
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14088",
+      "service_name": "impots.gouv.fr 39",
+      "owner": "M. Weber",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 34
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15335",
+      "service_name": "CAF Social Benefits 36",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 51
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15751",
+      "service_name": "Pole Emploi Portal 2",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 4
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15715",
+      "service_name": "Ameli Health Portal 16",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 78
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16803",
+      "service_name": "Cadastre Numérique 4",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 9
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17160",
+      "service_name": "CAF Social Benefits 11",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-15",
+      "risk_level": "high",
+      "progress": 86
     }
   ]
 }
