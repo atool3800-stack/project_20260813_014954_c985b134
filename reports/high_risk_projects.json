@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16",
-  "count": 3234,
+  "generated_at": "2026-11-17",
+  "count": 3242,
   "projects": [
     {
       "country": "UK",
@@ -15533,6 +15533,39 @@
       "due_date": "2026-11-15",
       "risk_level": "critical",
       "progress": 54
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11327",
+      "service_name": "GOV.UK Pay 28",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-16",
+      "risk_level": "critical",
+      "progress": 96
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15393",
+      "service_name": "impots.gouv.fr 44",
+      "owner": "J. Schmidt",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-16",
+      "risk_level": "critical",
+      "progress": 42
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14580",
+      "service_name": "Ameli Health Portal 31",
+      "owner": "P. Laurent",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-16",
+      "risk_level": "critical",
+      "progress": 23
     },
     {
       "country": "UK",
@@ -35575,6 +35608,61 @@
       "due_date": "2026-11-15",
       "risk_level": "high",
       "progress": 86
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16512",
+      "service_name": "Sante.fr 13",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-16",
+      "risk_level": "high",
+      "progress": 49
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10131",
+      "service_name": "HMRC Tax Digital 32",
+      "owner": "T. Becker",
+      "status": null,
+      "priority": "medium",
+      "due_date": "2026-11-16",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15737",
+      "service_name": "CAF Social Benefits 38",
+      "owner": "D. Neumann",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-16",
+      "risk_level": "high",
+      "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16220",
+      "service_name": "ANTS Driving Licence 21",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-16",
+      "risk_level": "high",
+      "progress": 43
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16630",
+      "service_name": "Sante.fr 31",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-16",
+      "risk_level": "high",
+      "progress": 99
     }
   ]
 }
