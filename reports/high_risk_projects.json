@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17",
-  "count": 3242,
+  "generated_at": "2026-11-18",
+  "count": 3255,
   "projects": [
     {
       "country": "UK",
@@ -15566,6 +15566,50 @@
       "due_date": "2026-11-16",
       "risk_level": "critical",
       "progress": 23
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12346",
+      "service_name": "GOV.UK Pay 47",
+      "owner": "C. Martin",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "critical",
+      "progress": 75
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21361",
+      "service_name": "Zoll Digital Services 12",
+      "owner": "P. Laurent",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-17",
+      "risk_level": "critical",
+      "progress": 41
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10809",
+      "service_name": "DVLA Online Services 10",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-17",
+      "risk_level": "critical",
+      "progress": 61
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17894",
+      "service_name": "MonCompteFormation 45",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-17",
+      "risk_level": "critical",
+      "progress": 72
     },
     {
       "country": "UK",
@@ -35663,6 +35707,105 @@
       "due_date": "2026-11-16",
       "risk_level": "high",
       "progress": 99
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13740",
+      "service_name": "GOV.UK Pay 41",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 48
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18276",
+      "service_name": "BundesID 27",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 76
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12105",
+      "service_name": "Local Council Services 6",
+      "owner": "A. Patel",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 26
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12971",
+      "service_name": "Universal Credit Portal 22",
+      "owner": "A. Patel",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 25
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16019",
+      "service_name": "Gendarmerie Nationale 20",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 89
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20306",
+      "service_name": "Zoll Digital Services 7",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 41
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14024",
+      "service_name": "Cadastre Numérique 25",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 18
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11646",
+      "service_name": "NHS Digital Records 47",
+      "owner": "L. Smith",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14723",
+      "service_name": "Sante.fr 24",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-17",
+      "risk_level": "high",
+      "progress": 83
     }
   ]
 }
