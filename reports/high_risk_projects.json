@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18",
-  "count": 3255,
+  "generated_at": "2026-11-19",
+  "count": 3259,
   "projects": [
     {
       "country": "UK",
@@ -35806,6 +35806,50 @@
       "due_date": "2026-11-17",
       "risk_level": "high",
       "progress": 83
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20854",
+      "service_name": "AusweisApp2 5",
+      "owner": "R. Wilson",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-18",
+      "risk_level": "high",
+      "progress": 70
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12969",
+      "service_name": "Universal Credit Portal 20",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-18",
+      "risk_level": "high",
+      "progress": 96
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10802",
+      "service_name": "NHS Digital Records 3",
+      "owner": "L. Smith",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-18",
+      "risk_level": "high",
+      "progress": 26
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20276",
+      "service_name": "Rentenversicherung Portal 27",
+      "owner": "N. Moreau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-18",
+      "risk_level": "high",
+      "progress": 57
     }
   ]
 }
