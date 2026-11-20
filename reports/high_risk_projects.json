@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19",
-  "count": 3259,
+  "generated_at": "2026-11-20",
+  "count": 3265,
   "projects": [
     {
       "country": "UK",
@@ -15610,6 +15610,50 @@
       "due_date": "2026-11-17",
       "risk_level": "critical",
       "progress": 72
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16002",
+      "service_name": "Cadastre Numérique 3",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-19",
+      "risk_level": "critical",
+      "progress": 62
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21402",
+      "service_name": "Wohngeld Digital 3",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-19",
+      "risk_level": "critical",
+      "progress": 21
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21648",
+      "service_name": "AusweisApp2 49",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-19",
+      "risk_level": "critical",
+      "progress": 19
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19640",
+      "service_name": "Rentenversicherung Portal 41",
+      "owner": "H. Clarke",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-19",
+      "risk_level": "critical",
+      "progress": 78
     },
     {
       "country": "UK",
@@ -35850,6 +35894,28 @@
       "due_date": "2026-11-18",
       "risk_level": "high",
       "progress": 57
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17910",
+      "service_name": "Ameli Health Portal 11",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-19",
+      "risk_level": "high",
+      "progress": 92
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15496",
+      "service_name": "Cadastre Numérique 47",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-19",
+      "risk_level": "high",
+      "progress": 46
     }
   ]
 }
