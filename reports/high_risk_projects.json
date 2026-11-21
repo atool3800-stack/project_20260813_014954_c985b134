@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20",
-  "count": 3265,
+  "generated_at": "2026-11-21",
+  "count": 3272,
   "projects": [
     {
       "country": "UK",
@@ -15654,6 +15654,39 @@
       "due_date": "2026-11-19",
       "risk_level": "critical",
       "progress": 78
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18479",
+      "service_name": "BA Portal 30",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-20",
+      "risk_level": "critical",
+      "progress": 33
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21827",
+      "service_name": "BundesID 28",
+      "owner": "T. Becker",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-20",
+      "risk_level": "critical",
+      "progress": 91
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14460",
+      "service_name": "Ameli Health Portal 11",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-20",
+      "risk_level": "critical",
+      "progress": 52
     },
     {
       "country": "UK",
@@ -35916,6 +35949,50 @@
       "due_date": "2026-11-19",
       "risk_level": "high",
       "progress": 46
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17744",
+      "service_name": "impots.gouv.fr 45",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-20",
+      "risk_level": "high",
+      "progress": 80
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18131",
+      "service_name": "BA Portal 32",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-20",
+      "risk_level": "high",
+      "progress": 74
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14559",
+      "service_name": "impots.gouv.fr 10",
+      "owner": "J. Schmidt",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-20",
+      "risk_level": "high",
+      "progress": 33
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11857",
+      "service_name": "GOV.UK Pay 8",
+      "owner": "J. Schmidt",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-20",
+      "risk_level": "high",
+      "progress": 99
     }
   ]
 }
