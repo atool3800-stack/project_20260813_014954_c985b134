@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21",
-  "count": 3272,
+  "generated_at": "2026-11-22",
+  "count": 3274,
   "projects": [
     {
       "country": "UK",
@@ -15687,6 +15687,17 @@
       "due_date": "2026-11-20",
       "risk_level": "critical",
       "progress": 52
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17317",
+      "service_name": "Ameli Health Portal 18",
+      "owner": "T. Becker",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-21",
+      "risk_level": "critical",
+      "progress": 48
     },
     {
       "country": "UK",
@@ -35993,6 +36004,17 @@
       "due_date": "2026-11-20",
       "risk_level": "high",
       "progress": 99
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20004",
+      "service_name": "AusweisApp2 5",
+      "owner": "L. Smith",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-21",
+      "risk_level": "high",
+      "progress": 43
     }
   ]
 }
