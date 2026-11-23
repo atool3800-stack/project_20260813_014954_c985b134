@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22",
-  "count": 3274,
+  "generated_at": "2026-11-23",
+  "count": 3278,
   "projects": [
     {
       "country": "UK",
@@ -36015,6 +36015,50 @@
       "due_date": "2026-11-21",
       "risk_level": "high",
       "progress": 43
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18117",
+      "service_name": "Digital Health Record 18",
+      "owner": "C. Martin",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-22",
+      "risk_level": "high",
+      "progress": 19
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12484",
+      "service_name": "Universal Credit Portal 35",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-22",
+      "risk_level": "high",
+      "progress": 23
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10968",
+      "service_name": "HMRC Tax Digital 19",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-22",
+      "risk_level": "high",
+      "progress": 53
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10150",
+      "service_name": "DVLA Online Services 1",
+      "owner": "R. Wilson",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-22",
+      "risk_level": "high",
+      "progress": 80
     }
   ]
 }
