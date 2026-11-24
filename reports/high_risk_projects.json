@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23",
-  "count": 3278,
+  "generated_at": "2026-11-24",
+  "count": 3285,
   "projects": [
     {
       "country": "UK",
@@ -15698,6 +15698,17 @@
       "due_date": "2026-11-21",
       "risk_level": "critical",
       "progress": 48
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10525",
+      "service_name": "HMRC Tax Digital 26",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-23",
+      "risk_level": "critical",
+      "progress": 83
     },
     {
       "country": "UK",
@@ -36059,6 +36070,72 @@
       "due_date": "2026-11-22",
       "risk_level": "high",
       "progress": 80
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12836",
+      "service_name": "DVLA Online Services 37",
+      "owner": "D. Neumann",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 56
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21930",
+      "service_name": "Digital Health Record 31",
+      "owner": "H. Clarke",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 81
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11493",
+      "service_name": "Passport Office 44",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 50
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-14594",
+      "service_name": "Sante.fr 45",
+      "owner": "N. Moreau",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 62
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17447",
+      "service_name": "Ameli Health Portal 48",
+      "owner": "K. Fischer",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 87
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10140",
+      "service_name": "DVLA Online Services 41",
+      "owner": "T. Becker",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-23",
+      "risk_level": "high",
+      "progress": 56
     }
   ]
 }
