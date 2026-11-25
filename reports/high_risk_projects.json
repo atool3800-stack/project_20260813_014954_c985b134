@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24",
-  "count": 3285,
+  "generated_at": "2026-11-25",
+  "count": 3292,
   "projects": [
     {
       "country": "UK",
@@ -15709,6 +15709,39 @@
       "due_date": "2026-11-23",
       "risk_level": "critical",
       "progress": 83
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17496",
+      "service_name": "FranceConnect 47",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "medium",
+      "due_date": "2026-11-24",
+      "risk_level": "critical",
+      "progress": 58
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10061",
+      "service_name": "Border Control System 12",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-24",
+      "risk_level": "critical",
+      "progress": 94
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18245",
+      "service_name": "ELSTER Tax Portal 46",
+      "owner": "E. Johnson",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-24",
+      "risk_level": "critical",
+      "progress": 84
     },
     {
       "country": "UK",
@@ -36136,6 +36169,50 @@
       "due_date": "2026-11-23",
       "risk_level": "high",
       "progress": 56
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20662",
+      "service_name": "Digital Health Record 13",
+      "owner": "S. Dubois",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-24",
+      "risk_level": "high",
+      "progress": 91
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-20618",
+      "service_name": "Zoll Digital Services 19",
+      "owner": "A. Patel",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-24",
+      "risk_level": "high",
+      "progress": 2
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15337",
+      "service_name": "FranceConnect 38",
+      "owner": "K. Fischer",
+      "status": "at_risk",
+      "priority": "high",
+      "due_date": "2026-11-24",
+      "risk_level": "high",
+      "progress": 82
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-11796",
+      "service_name": "NHS Digital Records 47",
+      "owner": "M. Weber",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-24",
+      "risk_level": "high",
+      "progress": 55
     }
   ]
 }
