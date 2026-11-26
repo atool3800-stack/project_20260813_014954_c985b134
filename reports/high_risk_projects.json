@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25",
-  "count": 3292,
+  "generated_at": "2026-11-26",
+  "count": 3297,
   "projects": [
     {
       "country": "UK",
@@ -15742,6 +15742,17 @@
       "due_date": "2026-11-24",
       "risk_level": "critical",
       "progress": 84
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12417",
+      "service_name": "Housing Benefit System 18",
+      "owner": "H. Clarke",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-25",
+      "risk_level": "critical",
+      "progress": 58
     },
     {
       "country": "UK",
@@ -36213,6 +36224,50 @@
       "due_date": "2026-11-24",
       "risk_level": "high",
       "progress": 55
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21214",
+      "service_name": "Kfz-Zulassung Online 15",
+      "owner": "V. Rousseau",
+      "status": "delayed",
+      "priority": "medium",
+      "due_date": "2026-11-25",
+      "risk_level": "high",
+      "progress": 47
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12061",
+      "service_name": "NHS Digital Records 12",
+      "owner": "R. Wilson",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-25",
+      "risk_level": "high",
+      "progress": 57
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10883",
+      "service_name": "Universal Credit Portal 34",
+      "owner": "S. Dubois",
+      "status": "completed",
+      "priority": "high",
+      "due_date": "2026-11-25",
+      "risk_level": "high",
+      "progress": 72
+    },
+    {
+      "country": "IN",
+      "service_id": "IN-90004",
+      "service_name": "Digital Service Platform 32",
+      "owner": "K. Fischer",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-25",
+      "risk_level": "high",
+      "progress": 85
     }
   ]
 }
