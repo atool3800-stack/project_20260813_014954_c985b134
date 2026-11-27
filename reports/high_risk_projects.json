@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26",
-  "count": 3297,
+  "generated_at": "2026-11-27",
+  "count": 3304,
   "projects": [
     {
       "country": "UK",
@@ -15753,6 +15753,28 @@
       "due_date": "2026-11-25",
       "risk_level": "critical",
       "progress": 58
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16606",
+      "service_name": "FranceConnect 7",
+      "owner": "J. Schmidt",
+      "status": "at_risk",
+      "priority": "low",
+      "due_date": "2026-11-26",
+      "risk_level": "critical",
+      "progress": 33
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18752",
+      "service_name": "Rentenversicherung Portal 3",
+      "owner": "S. Dubois",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-26",
+      "risk_level": "critical",
+      "progress": 16
     },
     {
       "country": "UK",
@@ -36268,6 +36290,61 @@
       "due_date": "2026-11-25",
       "risk_level": "high",
       "progress": 85
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-21561",
+      "service_name": "Wohngeld Digital 12",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "low",
+      "due_date": "2026-11-26",
+      "risk_level": "high",
+      "progress": 28
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-12205",
+      "service_name": "DVLA Online Services 6",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-26",
+      "risk_level": "high",
+      "progress": 94
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-10406",
+      "service_name": "HMRC Tax Digital 7",
+      "owner": "N. Moreau",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-26",
+      "risk_level": "high",
+      "progress": 11
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-18054",
+      "service_name": "Wohngeld Digital 5",
+      "owner": "R. Wilson",
+      "status": "delayed",
+      "priority": "low",
+      "due_date": "2026-11-26",
+      "risk_level": "high",
+      "progress": 64
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17050",
+      "service_name": "MonCompteFormation 1",
+      "owner": "S. Dubois",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-26",
+      "risk_level": "high",
+      "progress": 4
     }
   ]
 }
