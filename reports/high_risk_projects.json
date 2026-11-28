@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27",
-  "count": 3304,
+  "generated_at": "2026-11-28",
+  "count": 3309,
   "projects": [
     {
       "country": "UK",
@@ -15775,6 +15775,17 @@
       "due_date": "2026-11-26",
       "risk_level": "critical",
       "progress": 16
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-16203",
+      "service_name": "ANTS Driving Licence 4",
+      "owner": "H. Clarke",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-27",
+      "risk_level": "critical",
+      "progress": 62
     },
     {
       "country": "UK",
@@ -36345,6 +36356,50 @@
       "due_date": "2026-11-26",
       "risk_level": "high",
       "progress": 4
+    },
+    {
+      "country": "DE",
+      "service_id": "DE-19397",
+      "service_name": "BundesID 48",
+      "owner": "V. Rousseau",
+      "status": "on_track",
+      "priority": "high",
+      "due_date": "2026-11-27",
+      "risk_level": "high",
+      "progress": 52
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-15284",
+      "service_name": "Sante.fr 35",
+      "owner": "N. Moreau",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-11-27",
+      "risk_level": "high",
+      "progress": 3
+    },
+    {
+      "country": "FR",
+      "service_id": "FR-17510",
+      "service_name": "ANTS Driving Licence 11",
+      "owner": "K. Fischer",
+      "status": "on_track",
+      "priority": "low",
+      "due_date": "2026-11-27",
+      "risk_level": "high",
+      "progress": 95
+    },
+    {
+      "country": "UK",
+      "service_id": "UK-13318",
+      "service_name": "Police National Database 19",
+      "owner": "C. Martin",
+      "status": "at_risk",
+      "priority": "medium",
+      "due_date": "2026-11-27",
+      "risk_level": "high",
+      "progress": 49
     }
   ]
 }
